@@ -10,6 +10,7 @@ project(
 add_library(flying_horror_core
     src/sim.cpp
     src/pid_controller.cpp
+    src/roll_dynamics.cpp
 )
 
 target_include_directories(flying_horror_core
