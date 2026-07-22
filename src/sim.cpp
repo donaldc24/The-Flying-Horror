@@ -3,10 +3,14 @@
 #include <flying_horror/roll_dynamics.hpp>
 #include <flying_horror/units.hpp>
 #include <flying_horror/pid_controller.hpp>
+#include <flying_horror/utils.hpp>
 
 #include <iostream>
 #include <algorithm>
 #include <cmath>
+#include <fstream>
+#include <filesystem>
+#include <cstdlib>
 
 namespace flying_horror {
     const double update_freq = 100.0; // Hz, simulation update frequency
@@ -23,7 +27,26 @@ namespace flying_horror {
 
     void init_sim() {
         std::cout << "Flying Horror simulation initialized.\n";
+       std::filesystem::remove("results/output.csv");
+
+        std::ofstream myFile("results/output.csv", std::ios::app);
+
+        if (!myFile.is_open()) {
+            std::cerr << "Error: Could not open or create the file." << std::endl;
+            return;
+        }
+        myFile.close();
+
         run_sim();
+
+        const int result = std::system("python scripts/plot_telemetry.py");
+
+        if (result != 0) {
+            std::cerr << "Python plotting script failed.\n";
+            return;
+        }
+
+        std::cout << "Plots generated successfully.\n";
     }
 
     void run_sim() {
@@ -42,8 +65,15 @@ namespace flying_horror {
         double delta_time = 1.0 / update_freq;
         int steps = sim_duration * update_freq;
         for (int i = 0; i < steps; i++) {
+            writeToCSV("Timestamp: " + std::to_string(i * delta_time), "results/output.csv");
             torque = pid_controller.update(degrees_to_radians(target_angle), current_angle, delta_time);
             current_angle = RollDynamics::calculate_new_angle(current_angle, angular_velocity, delta_time, torque);
+
+            writeToCSV("Angular Velocity : " + std::to_string(angular_velocity), "results/output.csv");
+            writeToCSV("Current Angle: " + std::to_string(radians_to_degrees(current_angle)), "results/output.csv");
+            writeToCSV("Torque : " + std::to_string(torque), "results/output.csv");
+            writeToCSV("-------------------------------------------------------------------", "results/output.csv");
+
             if (i % 10 == 0) { // Print every 10 steps
                 std::cout << "Time: " << (i * delta_time) << " s, ";
                 std::cout << "Angle: " << radians_to_degrees(current_angle) << " degrees, ";

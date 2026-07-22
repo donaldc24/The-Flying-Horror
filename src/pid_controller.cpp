@@ -1,4 +1,5 @@
 #include <flying_horror/pid_controller.hpp>
+#include <flying_horror/utils.hpp>
 
 #include <algorithm>
 #include <cmath>
@@ -52,6 +53,8 @@ namespace flying_horror {
 
         const double error = target - measurement;
         const double proportionalTerm = kp_ * error;
+        writeToCSV("Proportional Term: " + std::to_string(proportionalTerm), "results/output.csv");
+
         accumulatedError_ += error * deltaTimeSeconds;
 
         accumulatedError_ = std::clamp(
@@ -61,6 +64,7 @@ namespace flying_horror {
         );
 
         const double integralTerm = ki_ * accumulatedError_;
+        writeToCSV("Integral Term: " + std::to_string(integralTerm), "results/output.csv");
         double derivativeTerm{0.0};
 
         if (hasPreviousError_) {
@@ -68,6 +72,7 @@ namespace flying_horror {
 
             derivativeTerm = kd_ * errorChange / deltaTimeSeconds;
         }
+        writeToCSV("Derivative Term: " + std::to_string(derivativeTerm), "results/output.csv");
 
         previousError_ = error;
         hasPreviousError_ = true;

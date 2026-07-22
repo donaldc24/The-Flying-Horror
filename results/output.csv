@@ -1,0 +1,4000 @@
+Timestamp: 0.000000
+Proportional Term: -0.052360
+Integral Term: -0.000026
+Derivative Term: 0.000000
+Angular Velocity : -0.275716
+Current Angle: 14.842026
+Torque : -0.052386
+-------------------------------------------------------------------
+Timestamp: 0.010000
+Proportional Term: -0.051808
+Integral Term: -0.000052
+Derivative Term: 0.009650
+Angular Velocity : -0.492797
+Current Angle: 14.559674
+Torque : -0.042210
+-------------------------------------------------------------------
+Timestamp: 0.020000
+Proportional Term: -0.050823
+Integral Term: -0.000077
+Derivative Term: 0.017248
+Angular Velocity : -0.660838
+Current Angle: 14.181042
+Torque : -0.033652
+-------------------------------------------------------------------
+Timestamp: 0.030000
+Proportional Term: -0.049501
+Integral Term: -0.000102
+Derivative Term: 0.023129
+Angular Velocity : -0.788002
+Current Angle: 13.729550
+Torque : -0.026474
+-------------------------------------------------------------------
+Timestamp: 0.040000
+Proportional Term: -0.047925
+Integral Term: -0.000126
+Derivative Term: 0.027580
+Angular Velocity : -0.881230
+Current Angle: 13.224643
+Torque : -0.020471
+-------------------------------------------------------------------
+Timestamp: 0.050000
+Proportional Term: -0.046163
+Integral Term: -0.000149
+Derivative Term: 0.030843
+Angular Velocity : -0.946412
+Current Angle: 12.682389
+Torque : -0.015469
+-------------------------------------------------------------------
+Timestamp: 0.060000
+Proportional Term: -0.044270
+Integral Term: -0.000171
+Derivative Term: 0.033124
+Angular Velocity : -0.988541
+Current Angle: 12.115997
+Torque : -0.011317
+-------------------------------------------------------------------
+Timestamp: 0.070000
+Proportional Term: -0.042293
+Integral Term: -0.000193
+Derivative Term: 0.034599
+Angular Velocity : -1.011838
+Current Angle: 11.536256
+Torque : -0.007886
+-------------------------------------------------------------------
+Timestamp: 0.080000
+Proportional Term: -0.040269
+Integral Term: -0.000213
+Derivative Term: 0.035414
+Angular Velocity : -1.019870
+Current Angle: 10.951913
+Torque : -0.005067
+-------------------------------------------------------------------
+Timestamp: 0.090000
+Proportional Term: -0.038229
+Integral Term: -0.000232
+Derivative Term: 0.035695
+Angular Velocity : -1.015640
+Current Angle: 10.369994
+Torque : -0.002766
+-------------------------------------------------------------------
+Timestamp: 0.100000
+Proportional Term: -0.036198
+Integral Term: -0.000250
+Derivative Term: 0.035547
+Angular Velocity : -1.001671
+Current Angle: 9.796079
+Torque : -0.000901
+-------------------------------------------------------------------
+Timestamp: 0.110000
+Proportional Term: -0.034195
+Integral Term: -0.000267
+Derivative Term: 0.035058
+Angular Velocity : -0.980079
+Current Angle: 9.234536
+Torque : 0.000597
+-------------------------------------------------------------------
+Timestamp: 0.120000
+Proportional Term: -0.032235
+Integral Term: -0.000283
+Derivative Term: 0.034303
+Angular Velocity : -0.952630
+Current Angle: 8.688719
+Torque : 0.001785
+-------------------------------------------------------------------
+Timestamp: 0.130000
+Proportional Term: -0.030329
+Integral Term: -0.000298
+Derivative Term: 0.033342
+Angular Velocity : -0.920795
+Current Angle: 8.161142
+Torque : 0.002714
+-------------------------------------------------------------------
+Timestamp: 0.140000
+Proportional Term: -0.028488
+Integral Term: -0.000313
+Derivative Term: 0.032228
+Angular Velocity : -0.885793
+Current Angle: 7.653620
+Torque : 0.003428
+-------------------------------------------------------------------
+Timestamp: 0.150000
+Proportional Term: -0.026716
+Integral Term: -0.000326
+Derivative Term: 0.031003
+Angular Velocity : -0.848630
+Current Angle: 7.167391
+Torque : 0.003961
+-------------------------------------------------------------------
+Timestamp: 0.160000
+Proportional Term: -0.025019
+Integral Term: -0.000338
+Derivative Term: 0.029702
+Angular Velocity : -0.810131
+Current Angle: 6.703220
+Torque : 0.004345
+-------------------------------------------------------------------
+Timestamp: 0.170000
+Proportional Term: -0.023399
+Integral Term: -0.000350
+Derivative Term: 0.028355
+Angular Velocity : -0.770966
+Current Angle: 6.261489
+Torque : 0.004606
+-------------------------------------------------------------------
+Timestamp: 0.180000
+Proportional Term: -0.021857
+Integral Term: -0.000361
+Derivative Term: 0.026984
+Angular Velocity : -0.731680
+Current Angle: 5.842268
+Torque : 0.004766
+-------------------------------------------------------------------
+Timestamp: 0.190000
+Proportional Term: -0.020393
+Integral Term: -0.000371
+Derivative Term: 0.025609
+Angular Velocity : -0.692706
+Current Angle: 5.445376
+Torque : 0.004844
+-------------------------------------------------------------------
+Timestamp: 0.200000
+Proportional Term: -0.019008
+Integral Term: -0.000381
+Derivative Term: 0.024245
+Angular Velocity : -0.654387
+Current Angle: 5.070440
+Torque : 0.004856
+-------------------------------------------------------------------
+Timestamp: 0.210000
+Proportional Term: -0.017699
+Integral Term: -0.000390
+Derivative Term: 0.022904
+Angular Velocity : -0.616992
+Current Angle: 4.716930
+Torque : 0.004815
+-------------------------------------------------------------------
+Timestamp: 0.220000
+Proportional Term: -0.016465
+Integral Term: -0.000398
+Derivative Term: 0.021595
+Angular Velocity : -0.580722
+Current Angle: 4.384201
+Torque : 0.004732
+-------------------------------------------------------------------
+Timestamp: 0.230000
+Proportional Term: -0.015304
+Integral Term: -0.000405
+Derivative Term: 0.020325
+Angular Velocity : -0.545730
+Current Angle: 4.071520
+Torque : 0.004616
+-------------------------------------------------------------------
+Timestamp: 0.240000
+Proportional Term: -0.014212
+Integral Term: -0.000413
+Derivative Term: 0.019101
+Angular Velocity : -0.512121
+Current Angle: 3.778097
+Torque : 0.004476
+-------------------------------------------------------------------
+Timestamp: 0.250000
+Proportional Term: -0.013188
+Integral Term: -0.000419
+Derivative Term: 0.017924
+Angular Velocity : -0.479966
+Current Angle: 3.503097
+Torque : 0.004317
+-------------------------------------------------------------------
+Timestamp: 0.260000
+Proportional Term: -0.012228
+Integral Term: -0.000425
+Derivative Term: 0.016799
+Angular Velocity : -0.449306
+Current Angle: 3.245663
+Torque : 0.004145
+-------------------------------------------------------------------
+Timestamp: 0.270000
+Proportional Term: -0.011330
+Integral Term: -0.000431
+Derivative Term: 0.015726
+Angular Velocity : -0.420160
+Current Angle: 3.004929
+Torque : 0.003965
+-------------------------------------------------------------------
+Timestamp: 0.280000
+Proportional Term: -0.010489
+Integral Term: -0.000436
+Derivative Term: 0.014706
+Angular Velocity : -0.392524
+Current Angle: 2.780029
+Torque : 0.003780
+-------------------------------------------------------------------
+Timestamp: 0.290000
+Proportional Term: -0.009704
+Integral Term: -0.000441
+Derivative Term: 0.013738
+Angular Velocity : -0.366382
+Current Angle: 2.570108
+Torque : 0.003593
+-------------------------------------------------------------------
+Timestamp: 0.300000
+Proportional Term: -0.008971
+Integral Term: -0.000446
+Derivative Term: 0.012823
+Angular Velocity : -0.341704
+Current Angle: 2.374326
+Torque : 0.003406
+-------------------------------------------------------------------
+Timestamp: 0.310000
+Proportional Term: -0.008288
+Integral Term: -0.000450
+Derivative Term: 0.011960
+Angular Velocity : -0.318452
+Current Angle: 2.191866
+Torque : 0.003222
+-------------------------------------------------------------------
+Timestamp: 0.320000
+Proportional Term: -0.007651
+Integral Term: -0.000454
+Derivative Term: 0.011146
+Angular Velocity : -0.296579
+Current Angle: 2.021939
+Torque : 0.003041
+-------------------------------------------------------------------
+Timestamp: 0.330000
+Proportional Term: -0.007058
+Integral Term: -0.000457
+Derivative Term: 0.010380
+Angular Velocity : -0.276035
+Current Angle: 1.863783
+Torque : 0.002865
+-------------------------------------------------------------------
+Timestamp: 0.340000
+Proportional Term: -0.006506
+Integral Term: -0.000460
+Derivative Term: 0.009661
+Angular Velocity : -0.256765
+Current Angle: 1.716667
+Torque : 0.002695
+-------------------------------------------------------------------
+Timestamp: 0.350000
+Proportional Term: -0.005992
+Integral Term: -0.000463
+Derivative Term: 0.008987
+Angular Velocity : -0.238713
+Current Angle: 1.579895
+Torque : 0.002531
+-------------------------------------------------------------------
+Timestamp: 0.360000
+Proportional Term: -0.005515
+Integral Term: -0.000466
+Derivative Term: 0.008355
+Angular Velocity : -0.221821
+Current Angle: 1.452800
+Torque : 0.002374
+-------------------------------------------------------------------
+Timestamp: 0.370000
+Proportional Term: -0.005071
+Integral Term: -0.000469
+Derivative Term: 0.007764
+Angular Velocity : -0.206030
+Current Angle: 1.334754
+Torque : 0.002224
+-------------------------------------------------------------------
+Timestamp: 0.380000
+Proportional Term: -0.004659
+Integral Term: -0.000471
+Derivative Term: 0.007211
+Angular Velocity : -0.191282
+Current Angle: 1.225158
+Torque : 0.002081
+-------------------------------------------------------------------
+Timestamp: 0.390000
+Proportional Term: -0.004277
+Integral Term: -0.000473
+Derivative Term: 0.006695
+Angular Velocity : -0.177520
+Current Angle: 1.123446
+Torque : 0.001945
+-------------------------------------------------------------------
+Timestamp: 0.400000
+Proportional Term: -0.003922
+Integral Term: -0.000475
+Derivative Term: 0.006213
+Angular Velocity : -0.164689
+Current Angle: 1.029086
+Torque : 0.001817
+-------------------------------------------------------------------
+Timestamp: 0.410000
+Proportional Term: -0.003592
+Integral Term: -0.000477
+Derivative Term: 0.005764
+Angular Velocity : -0.152734
+Current Angle: 0.941576
+Torque : 0.001695
+-------------------------------------------------------------------
+Timestamp: 0.420000
+Proportional Term: -0.003287
+Integral Term: -0.000478
+Derivative Term: 0.005346
+Angular Velocity : -0.141602
+Current Angle: 0.860444
+Torque : 0.001581
+-------------------------------------------------------------------
+Timestamp: 0.430000
+Proportional Term: -0.003004
+Integral Term: -0.000480
+Derivative Term: 0.004956
+Angular Velocity : -0.131243
+Current Angle: 0.785248
+Torque : 0.001473
+-------------------------------------------------------------------
+Timestamp: 0.440000
+Proportional Term: -0.002741
+Integral Term: -0.000481
+Derivative Term: 0.004593
+Angular Velocity : -0.121608
+Current Angle: 0.715571
+Torque : 0.001371
+-------------------------------------------------------------------
+Timestamp: 0.450000
+Proportional Term: -0.002498
+Integral Term: -0.000483
+Derivative Term: 0.004256
+Angular Velocity : -0.112653
+Current Angle: 0.651026
+Torque : 0.001276
+-------------------------------------------------------------------
+Timestamp: 0.460000
+Proportional Term: -0.002273
+Integral Term: -0.000484
+Derivative Term: 0.003943
+Angular Velocity : -0.104332
+Current Angle: 0.591248
+Torque : 0.001187
+-------------------------------------------------------------------
+Timestamp: 0.470000
+Proportional Term: -0.002064
+Integral Term: -0.000485
+Derivative Term: 0.003652
+Angular Velocity : -0.096605
+Current Angle: 0.535897
+Torque : 0.001103
+-------------------------------------------------------------------
+Timestamp: 0.480000
+Proportional Term: -0.001871
+Integral Term: -0.000486
+Derivative Term: 0.003381
+Angular Velocity : -0.089431
+Current Angle: 0.484657
+Torque : 0.001025
+-------------------------------------------------------------------
+Timestamp: 0.490000
+Proportional Term: -0.001692
+Integral Term: -0.000487
+Derivative Term: 0.003130
+Angular Velocity : -0.082774
+Current Angle: 0.437231
+Torque : 0.000952
+-------------------------------------------------------------------
+Timestamp: 0.500000
+Proportional Term: -0.001526
+Integral Term: -0.000487
+Derivative Term: 0.002897
+Angular Velocity : -0.076599
+Current Angle: 0.393343
+Torque : 0.000884
+-------------------------------------------------------------------
+Timestamp: 0.510000
+Proportional Term: -0.001373
+Integral Term: -0.000488
+Derivative Term: 0.002681
+Angular Velocity : -0.070872
+Current Angle: 0.352736
+Torque : 0.000820
+-------------------------------------------------------------------
+Timestamp: 0.520000
+Proportional Term: -0.001231
+Integral Term: -0.000489
+Derivative Term: 0.002481
+Angular Velocity : -0.065563
+Current Angle: 0.315171
+Torque : 0.000761
+-------------------------------------------------------------------
+Timestamp: 0.530000
+Proportional Term: -0.001100
+Integral Term: -0.000489
+Derivative Term: 0.002295
+Angular Velocity : -0.060643
+Current Angle: 0.280425
+Torque : 0.000705
+-------------------------------------------------------------------
+Timestamp: 0.540000
+Proportional Term: -0.000979
+Integral Term: -0.000490
+Derivative Term: 0.002122
+Angular Velocity : -0.056083
+Current Angle: 0.248292
+Torque : 0.000654
+-------------------------------------------------------------------
+Timestamp: 0.550000
+Proportional Term: -0.000867
+Integral Term: -0.000490
+Derivative Term: 0.001963
+Angular Velocity : -0.051860
+Current Angle: 0.218578
+Torque : 0.000606
+-------------------------------------------------------------------
+Timestamp: 0.560000
+Proportional Term: -0.000763
+Integral Term: -0.000490
+Derivative Term: 0.001815
+Angular Velocity : -0.047948
+Current Angle: 0.191106
+Torque : 0.000562
+-------------------------------------------------------------------
+Timestamp: 0.570000
+Proportional Term: -0.000667
+Integral Term: -0.000491
+Derivative Term: 0.001678
+Angular Velocity : -0.044327
+Current Angle: 0.165709
+Torque : 0.000520
+-------------------------------------------------------------------
+Timestamp: 0.580000
+Proportional Term: -0.000578
+Integral Term: -0.000491
+Derivative Term: 0.001551
+Angular Velocity : -0.040973
+Current Angle: 0.142233
+Torque : 0.000482
+-------------------------------------------------------------------
+Timestamp: 0.590000
+Proportional Term: -0.000496
+Integral Term: -0.000491
+Derivative Term: 0.001434
+Angular Velocity : -0.037870
+Current Angle: 0.120535
+Torque : 0.000446
+-------------------------------------------------------------------
+Timestamp: 0.600000
+Proportional Term: -0.000421
+Integral Term: -0.000492
+Derivative Term: 0.001325
+Angular Velocity : -0.034998
+Current Angle: 0.100483
+Torque : 0.000413
+-------------------------------------------------------------------
+Timestamp: 0.610000
+Proportional Term: -0.000351
+Integral Term: -0.000492
+Derivative Term: 0.001225
+Angular Velocity : -0.032340
+Current Angle: 0.081953
+Torque : 0.000382
+-------------------------------------------------------------------
+Timestamp: 0.620000
+Proportional Term: -0.000286
+Integral Term: -0.000492
+Derivative Term: 0.001132
+Angular Velocity : -0.029881
+Current Angle: 0.064833
+Torque : 0.000354
+-------------------------------------------------------------------
+Timestamp: 0.630000
+Proportional Term: -0.000226
+Integral Term: -0.000492
+Derivative Term: 0.001046
+Angular Velocity : -0.027606
+Current Angle: 0.049015
+Torque : 0.000328
+-------------------------------------------------------------------
+Timestamp: 0.640000
+Proportional Term: -0.000171
+Integral Term: -0.000492
+Derivative Term: 0.000966
+Angular Velocity : -0.025503
+Current Angle: 0.034403
+Torque : 0.000303
+-------------------------------------------------------------------
+Timestamp: 0.650000
+Proportional Term: -0.000120
+Integral Term: -0.000492
+Derivative Term: 0.000893
+Angular Velocity : -0.023557
+Current Angle: 0.020906
+Torque : 0.000280
+-------------------------------------------------------------------
+Timestamp: 0.660000
+Proportional Term: -0.000073
+Integral Term: -0.000492
+Derivative Term: 0.000824
+Angular Velocity : -0.021758
+Current Angle: 0.008440
+Torque : 0.000259
+-------------------------------------------------------------------
+Timestamp: 0.670000
+Proportional Term: -0.000029
+Integral Term: -0.000492
+Derivative Term: 0.000762
+Angular Velocity : -0.020094
+Current Angle: -0.003073
+Torque : 0.000240
+-------------------------------------------------------------------
+Timestamp: 0.680000
+Proportional Term: 0.000011
+Integral Term: -0.000492
+Derivative Term: 0.000703
+Angular Velocity : -0.018556
+Current Angle: -0.013705
+Torque : 0.000222
+-------------------------------------------------------------------
+Timestamp: 0.690000
+Proportional Term: 0.000048
+Integral Term: -0.000492
+Derivative Term: 0.000649
+Angular Velocity : -0.017135
+Current Angle: -0.023523
+Torque : 0.000205
+-------------------------------------------------------------------
+Timestamp: 0.700000
+Proportional Term: 0.000082
+Integral Term: -0.000492
+Derivative Term: 0.000600
+Angular Velocity : -0.015820
+Current Angle: -0.032587
+Torque : 0.000190
+-------------------------------------------------------------------
+Timestamp: 0.710000
+Proportional Term: 0.000114
+Integral Term: -0.000492
+Derivative Term: 0.000554
+Angular Velocity : -0.014605
+Current Angle: -0.040955
+Torque : 0.000175
+-------------------------------------------------------------------
+Timestamp: 0.720000
+Proportional Term: 0.000143
+Integral Term: -0.000492
+Derivative Term: 0.000511
+Angular Velocity : -0.013483
+Current Angle: -0.048680
+Torque : 0.000162
+-------------------------------------------------------------------
+Timestamp: 0.730000
+Proportional Term: 0.000170
+Integral Term: -0.000492
+Derivative Term: 0.000472
+Angular Velocity : -0.012445
+Current Angle: -0.055811
+Torque : 0.000150
+-------------------------------------------------------------------
+Timestamp: 0.740000
+Proportional Term: 0.000195
+Integral Term: -0.000492
+Derivative Term: 0.000436
+Angular Velocity : -0.011486
+Current Angle: -0.062392
+Torque : 0.000139
+-------------------------------------------------------------------
+Timestamp: 0.750000
+Proportional Term: 0.000218
+Integral Term: -0.000492
+Derivative Term: 0.000402
+Angular Velocity : -0.010600
+Current Angle: -0.068465
+Torque : 0.000128
+-------------------------------------------------------------------
+Timestamp: 0.760000
+Proportional Term: 0.000239
+Integral Term: -0.000492
+Derivative Term: 0.000371
+Angular Velocity : -0.009781
+Current Angle: -0.074069
+Torque : 0.000118
+-------------------------------------------------------------------
+Timestamp: 0.770000
+Proportional Term: 0.000259
+Integral Term: -0.000491
+Derivative Term: 0.000342
+Angular Velocity : -0.009025
+Current Angle: -0.079240
+Torque : 0.000109
+-------------------------------------------------------------------
+Timestamp: 0.780000
+Proportional Term: 0.000277
+Integral Term: -0.000491
+Derivative Term: 0.000316
+Angular Velocity : -0.008326
+Current Angle: -0.084011
+Torque : 0.000101
+-------------------------------------------------------------------
+Timestamp: 0.790000
+Proportional Term: 0.000293
+Integral Term: -0.000491
+Derivative Term: 0.000291
+Angular Velocity : -0.007680
+Current Angle: -0.088411
+Torque : 0.000094
+-------------------------------------------------------------------
+Timestamp: 0.800000
+Proportional Term: 0.000309
+Integral Term: -0.000491
+Derivative Term: 0.000269
+Angular Velocity : -0.007084
+Current Angle: -0.092470
+Torque : 0.000086
+-------------------------------------------------------------------
+Timestamp: 0.810000
+Proportional Term: 0.000323
+Integral Term: -0.000491
+Derivative Term: 0.000248
+Angular Velocity : -0.006533
+Current Angle: -0.096213
+Torque : 0.000080
+-------------------------------------------------------------------
+Timestamp: 0.820000
+Proportional Term: 0.000336
+Integral Term: -0.000491
+Derivative Term: 0.000229
+Angular Velocity : -0.006024
+Current Angle: -0.099664
+Torque : 0.000074
+-------------------------------------------------------------------
+Timestamp: 0.830000
+Proportional Term: 0.000348
+Integral Term: -0.000490
+Derivative Term: 0.000211
+Angular Velocity : -0.005553
+Current Angle: -0.102846
+Torque : 0.000068
+-------------------------------------------------------------------
+Timestamp: 0.840000
+Proportional Term: 0.000359
+Integral Term: -0.000490
+Derivative Term: 0.000194
+Angular Velocity : -0.005119
+Current Angle: -0.105779
+Torque : 0.000063
+-------------------------------------------------------------------
+Timestamp: 0.850000
+Proportional Term: 0.000369
+Integral Term: -0.000490
+Derivative Term: 0.000179
+Angular Velocity : -0.004718
+Current Angle: -0.108482
+Torque : 0.000058
+-------------------------------------------------------------------
+Timestamp: 0.860000
+Proportional Term: 0.000379
+Integral Term: -0.000490
+Derivative Term: 0.000165
+Angular Velocity : -0.004347
+Current Angle: -0.110973
+Torque : 0.000054
+-------------------------------------------------------------------
+Timestamp: 0.870000
+Proportional Term: 0.000387
+Integral Term: -0.000490
+Derivative Term: 0.000152
+Angular Velocity : -0.004005
+Current Angle: -0.113268
+Torque : 0.000050
+-------------------------------------------------------------------
+Timestamp: 0.880000
+Proportional Term: 0.000395
+Integral Term: -0.000490
+Derivative Term: 0.000140
+Angular Velocity : -0.003689
+Current Angle: -0.115381
+Torque : 0.000046
+-------------------------------------------------------------------
+Timestamp: 0.890000
+Proportional Term: 0.000403
+Integral Term: -0.000489
+Derivative Term: 0.000129
+Angular Velocity : -0.003397
+Current Angle: -0.117328
+Torque : 0.000043
+-------------------------------------------------------------------
+Timestamp: 0.900000
+Proportional Term: 0.000410
+Integral Term: -0.000489
+Derivative Term: 0.000119
+Angular Velocity : -0.003127
+Current Angle: -0.119120
+Torque : 0.000039
+-------------------------------------------------------------------
+Timestamp: 0.910000
+Proportional Term: 0.000416
+Integral Term: -0.000489
+Derivative Term: 0.000109
+Angular Velocity : -0.002878
+Current Angle: -0.120769
+Torque : 0.000036
+-------------------------------------------------------------------
+Timestamp: 0.920000
+Proportional Term: 0.000422
+Integral Term: -0.000489
+Derivative Term: 0.000101
+Angular Velocity : -0.002648
+Current Angle: -0.122286
+Torque : 0.000034
+-------------------------------------------------------------------
+Timestamp: 0.930000
+Proportional Term: 0.000427
+Integral Term: -0.000488
+Derivative Term: 0.000093
+Angular Velocity : -0.002436
+Current Angle: -0.123682
+Torque : 0.000031
+-------------------------------------------------------------------
+Timestamp: 0.940000
+Proportional Term: 0.000432
+Integral Term: -0.000488
+Derivative Term: 0.000085
+Angular Velocity : -0.002240
+Current Angle: -0.124966
+Torque : 0.000029
+-------------------------------------------------------------------
+Timestamp: 0.950000
+Proportional Term: 0.000436
+Integral Term: -0.000488
+Derivative Term: 0.000078
+Angular Velocity : -0.002059
+Current Angle: -0.126145
+Torque : 0.000027
+-------------------------------------------------------------------
+Timestamp: 0.960000
+Proportional Term: 0.000440
+Integral Term: -0.000488
+Derivative Term: 0.000072
+Angular Velocity : -0.001892
+Current Angle: -0.127229
+Torque : 0.000025
+-------------------------------------------------------------------
+Timestamp: 0.970000
+Proportional Term: 0.000444
+Integral Term: -0.000488
+Derivative Term: 0.000066
+Angular Velocity : -0.001737
+Current Angle: -0.128225
+Torque : 0.000023
+-------------------------------------------------------------------
+Timestamp: 0.980000
+Proportional Term: 0.000448
+Integral Term: -0.000487
+Derivative Term: 0.000061
+Angular Velocity : -0.001595
+Current Angle: -0.129138
+Torque : 0.000021
+-------------------------------------------------------------------
+Timestamp: 0.990000
+Proportional Term: 0.000451
+Integral Term: -0.000487
+Derivative Term: 0.000056
+Angular Velocity : -0.001463
+Current Angle: -0.129976
+Torque : 0.000019
+-------------------------------------------------------------------
+Timestamp: 1.000000
+Proportional Term: 0.000454
+Integral Term: -0.000487
+Derivative Term: 0.000051
+Angular Velocity : -0.001341
+Current Angle: -0.130745
+Torque : 0.000018
+-------------------------------------------------------------------
+Timestamp: 1.010000
+Proportional Term: 0.000456
+Integral Term: -0.000487
+Derivative Term: 0.000047
+Angular Velocity : -0.001229
+Current Angle: -0.131449
+Torque : 0.000017
+-------------------------------------------------------------------
+Timestamp: 1.020000
+Proportional Term: 0.000459
+Integral Term: -0.000486
+Derivative Term: 0.000043
+Angular Velocity : -0.001125
+Current Angle: -0.132094
+Torque : 0.000015
+-------------------------------------------------------------------
+Timestamp: 1.030000
+Proportional Term: 0.000461
+Integral Term: -0.000486
+Derivative Term: 0.000039
+Angular Velocity : -0.001030
+Current Angle: -0.132684
+Torque : 0.000014
+-------------------------------------------------------------------
+Timestamp: 1.040000
+Proportional Term: 0.000463
+Integral Term: -0.000486
+Derivative Term: 0.000036
+Angular Velocity : -0.000941
+Current Angle: -0.133223
+Torque : 0.000013
+-------------------------------------------------------------------
+Timestamp: 1.050000
+Proportional Term: 0.000465
+Integral Term: -0.000486
+Derivative Term: 0.000033
+Angular Velocity : -0.000860
+Current Angle: -0.133716
+Torque : 0.000012
+-------------------------------------------------------------------
+Timestamp: 1.060000
+Proportional Term: 0.000467
+Integral Term: -0.000486
+Derivative Term: 0.000030
+Angular Velocity : -0.000784
+Current Angle: -0.134165
+Torque : 0.000011
+-------------------------------------------------------------------
+Timestamp: 1.070000
+Proportional Term: 0.000468
+Integral Term: -0.000485
+Derivative Term: 0.000027
+Angular Velocity : -0.000715
+Current Angle: -0.134575
+Torque : 0.000010
+-------------------------------------------------------------------
+Timestamp: 1.080000
+Proportional Term: 0.000470
+Integral Term: -0.000485
+Derivative Term: 0.000025
+Angular Velocity : -0.000651
+Current Angle: -0.134948
+Torque : 0.000010
+-------------------------------------------------------------------
+Timestamp: 1.090000
+Proportional Term: 0.000471
+Integral Term: -0.000485
+Derivative Term: 0.000023
+Angular Velocity : -0.000591
+Current Angle: -0.135287
+Torque : 0.000009
+-------------------------------------------------------------------
+Timestamp: 1.100000
+Proportional Term: 0.000472
+Integral Term: -0.000485
+Derivative Term: 0.000021
+Angular Velocity : -0.000537
+Current Angle: -0.135594
+Torque : 0.000008
+-------------------------------------------------------------------
+Timestamp: 1.110000
+Proportional Term: 0.000473
+Integral Term: -0.000484
+Derivative Term: 0.000019
+Angular Velocity : -0.000486
+Current Angle: -0.135872
+Torque : 0.000008
+-------------------------------------------------------------------
+Timestamp: 1.120000
+Proportional Term: 0.000474
+Integral Term: -0.000484
+Derivative Term: 0.000017
+Angular Velocity : -0.000439
+Current Angle: -0.136124
+Torque : 0.000007
+-------------------------------------------------------------------
+Timestamp: 1.130000
+Proportional Term: 0.000475
+Integral Term: -0.000484
+Derivative Term: 0.000015
+Angular Velocity : -0.000396
+Current Angle: -0.136351
+Torque : 0.000007
+-------------------------------------------------------------------
+Timestamp: 1.140000
+Proportional Term: 0.000476
+Integral Term: -0.000484
+Derivative Term: 0.000014
+Angular Velocity : -0.000356
+Current Angle: -0.136555
+Torque : 0.000006
+-------------------------------------------------------------------
+Timestamp: 1.150000
+Proportional Term: 0.000477
+Integral Term: -0.000483
+Derivative Term: 0.000012
+Angular Velocity : -0.000320
+Current Angle: -0.136739
+Torque : 0.000006
+-------------------------------------------------------------------
+Timestamp: 1.160000
+Proportional Term: 0.000477
+Integral Term: -0.000483
+Derivative Term: 0.000011
+Angular Velocity : -0.000286
+Current Angle: -0.136902
+Torque : 0.000005
+-------------------------------------------------------------------
+Timestamp: 1.170000
+Proportional Term: 0.000478
+Integral Term: -0.000483
+Derivative Term: 0.000010
+Angular Velocity : -0.000254
+Current Angle: -0.137048
+Torque : 0.000005
+-------------------------------------------------------------------
+Timestamp: 1.180000
+Proportional Term: 0.000478
+Integral Term: -0.000483
+Derivative Term: 0.000009
+Angular Velocity : -0.000226
+Current Angle: -0.137177
+Torque : 0.000005
+-------------------------------------------------------------------
+Timestamp: 1.190000
+Proportional Term: 0.000479
+Integral Term: -0.000482
+Derivative Term: 0.000008
+Angular Velocity : -0.000199
+Current Angle: -0.137291
+Torque : 0.000004
+-------------------------------------------------------------------
+Timestamp: 1.200000
+Proportional Term: 0.000479
+Integral Term: -0.000482
+Derivative Term: 0.000007
+Angular Velocity : -0.000174
+Current Angle: -0.137391
+Torque : 0.000004
+-------------------------------------------------------------------
+Timestamp: 1.210000
+Proportional Term: 0.000480
+Integral Term: -0.000482
+Derivative Term: 0.000006
+Angular Velocity : -0.000152
+Current Angle: -0.137478
+Torque : 0.000004
+-------------------------------------------------------------------
+Timestamp: 1.220000
+Proportional Term: 0.000480
+Integral Term: -0.000482
+Derivative Term: 0.000005
+Angular Velocity : -0.000131
+Current Angle: -0.137553
+Torque : 0.000003
+-------------------------------------------------------------------
+Timestamp: 1.230000
+Proportional Term: 0.000480
+Integral Term: -0.000481
+Derivative Term: 0.000005
+Angular Velocity : -0.000111
+Current Angle: -0.137617
+Torque : 0.000003
+-------------------------------------------------------------------
+Timestamp: 1.240000
+Proportional Term: 0.000480
+Integral Term: -0.000481
+Derivative Term: 0.000004
+Angular Velocity : -0.000093
+Current Angle: -0.137670
+Torque : 0.000003
+-------------------------------------------------------------------
+Timestamp: 1.250000
+Proportional Term: 0.000481
+Integral Term: -0.000481
+Derivative Term: 0.000003
+Angular Velocity : -0.000077
+Current Angle: -0.137714
+Torque : 0.000003
+-------------------------------------------------------------------
+Timestamp: 1.260000
+Proportional Term: 0.000481
+Integral Term: -0.000481
+Derivative Term: 0.000003
+Angular Velocity : -0.000062
+Current Angle: -0.137749
+Torque : 0.000003
+-------------------------------------------------------------------
+Timestamp: 1.270000
+Proportional Term: 0.000481
+Integral Term: -0.000481
+Derivative Term: 0.000002
+Angular Velocity : -0.000048
+Current Angle: -0.137777
+Torque : 0.000002
+-------------------------------------------------------------------
+Timestamp: 1.280000
+Proportional Term: 0.000481
+Integral Term: -0.000480
+Derivative Term: 0.000002
+Angular Velocity : -0.000035
+Current Angle: -0.137796
+Torque : 0.000002
+-------------------------------------------------------------------
+Timestamp: 1.290000
+Proportional Term: 0.000481
+Integral Term: -0.000480
+Derivative Term: 0.000001
+Angular Velocity : -0.000023
+Current Angle: -0.137809
+Torque : 0.000002
+-------------------------------------------------------------------
+Timestamp: 1.300000
+Proportional Term: 0.000481
+Integral Term: -0.000480
+Derivative Term: 0.000001
+Angular Velocity : -0.000012
+Current Angle: -0.137816
+Torque : 0.000002
+-------------------------------------------------------------------
+Timestamp: 1.310000
+Proportional Term: 0.000481
+Integral Term: -0.000480
+Derivative Term: 0.000000
+Angular Velocity : -0.000001
+Current Angle: -0.137817
+Torque : 0.000002
+-------------------------------------------------------------------
+Timestamp: 1.320000
+Proportional Term: 0.000481
+Integral Term: -0.000479
+Derivative Term: 0.000000
+Angular Velocity : 0.000008
+Current Angle: -0.137812
+Torque : 0.000002
+-------------------------------------------------------------------
+Timestamp: 1.330000
+Proportional Term: 0.000481
+Integral Term: -0.000479
+Derivative Term: -0.000000
+Angular Velocity : 0.000017
+Current Angle: -0.137802
+Torque : 0.000002
+-------------------------------------------------------------------
+Timestamp: 1.340000
+Proportional Term: 0.000481
+Integral Term: -0.000479
+Derivative Term: -0.000001
+Angular Velocity : 0.000025
+Current Angle: -0.137788
+Torque : 0.000002
+-------------------------------------------------------------------
+Timestamp: 1.350000
+Proportional Term: 0.000481
+Integral Term: -0.000479
+Derivative Term: -0.000001
+Angular Velocity : 0.000032
+Current Angle: -0.137770
+Torque : 0.000001
+-------------------------------------------------------------------
+Timestamp: 1.360000
+Proportional Term: 0.000481
+Integral Term: -0.000478
+Derivative Term: -0.000001
+Angular Velocity : 0.000039
+Current Angle: -0.137747
+Torque : 0.000001
+-------------------------------------------------------------------
+Timestamp: 1.370000
+Proportional Term: 0.000481
+Integral Term: -0.000478
+Derivative Term: -0.000001
+Angular Velocity : 0.000045
+Current Angle: -0.137721
+Torque : 0.000001
+-------------------------------------------------------------------
+Timestamp: 1.380000
+Proportional Term: 0.000481
+Integral Term: -0.000478
+Derivative Term: -0.000002
+Angular Velocity : 0.000051
+Current Angle: -0.137692
+Torque : 0.000001
+-------------------------------------------------------------------
+Timestamp: 1.390000
+Proportional Term: 0.000481
+Integral Term: -0.000478
+Derivative Term: -0.000002
+Angular Velocity : 0.000056
+Current Angle: -0.137660
+Torque : 0.000001
+-------------------------------------------------------------------
+Timestamp: 1.400000
+Proportional Term: 0.000481
+Integral Term: -0.000477
+Derivative Term: -0.000002
+Angular Velocity : 0.000061
+Current Angle: -0.137625
+Torque : 0.000001
+-------------------------------------------------------------------
+Timestamp: 1.410000
+Proportional Term: 0.000480
+Integral Term: -0.000477
+Derivative Term: -0.000002
+Angular Velocity : 0.000066
+Current Angle: -0.137587
+Torque : 0.000001
+-------------------------------------------------------------------
+Timestamp: 1.420000
+Proportional Term: 0.000480
+Integral Term: -0.000477
+Derivative Term: -0.000002
+Angular Velocity : 0.000070
+Current Angle: -0.137547
+Torque : 0.000001
+-------------------------------------------------------------------
+Timestamp: 1.430000
+Proportional Term: 0.000480
+Integral Term: -0.000477
+Derivative Term: -0.000002
+Angular Velocity : 0.000074
+Current Angle: -0.137504
+Torque : 0.000001
+-------------------------------------------------------------------
+Timestamp: 1.440000
+Proportional Term: 0.000480
+Integral Term: -0.000476
+Derivative Term: -0.000003
+Angular Velocity : 0.000078
+Current Angle: -0.137460
+Torque : 0.000001
+-------------------------------------------------------------------
+Timestamp: 1.450000
+Proportional Term: 0.000480
+Integral Term: -0.000476
+Derivative Term: -0.000003
+Angular Velocity : 0.000081
+Current Angle: -0.137413
+Torque : 0.000001
+-------------------------------------------------------------------
+Timestamp: 1.460000
+Proportional Term: 0.000480
+Integral Term: -0.000476
+Derivative Term: -0.000003
+Angular Velocity : 0.000084
+Current Angle: -0.137365
+Torque : 0.000001
+-------------------------------------------------------------------
+Timestamp: 1.470000
+Proportional Term: 0.000479
+Integral Term: -0.000476
+Derivative Term: -0.000003
+Angular Velocity : 0.000087
+Current Angle: -0.137315
+Torque : 0.000001
+-------------------------------------------------------------------
+Timestamp: 1.480000
+Proportional Term: 0.000479
+Integral Term: -0.000475
+Derivative Term: -0.000003
+Angular Velocity : 0.000089
+Current Angle: -0.137264
+Torque : 0.000001
+-------------------------------------------------------------------
+Timestamp: 1.490000
+Proportional Term: 0.000479
+Integral Term: -0.000475
+Derivative Term: -0.000003
+Angular Velocity : 0.000092
+Current Angle: -0.137212
+Torque : 0.000001
+-------------------------------------------------------------------
+Timestamp: 1.500000
+Proportional Term: 0.000479
+Integral Term: -0.000475
+Derivative Term: -0.000003
+Angular Velocity : 0.000094
+Current Angle: -0.137158
+Torque : 0.000001
+-------------------------------------------------------------------
+Timestamp: 1.510000
+Proportional Term: 0.000479
+Integral Term: -0.000475
+Derivative Term: -0.000003
+Angular Velocity : 0.000096
+Current Angle: -0.137103
+Torque : 0.000001
+-------------------------------------------------------------------
+Timestamp: 1.520000
+Proportional Term: 0.000479
+Integral Term: -0.000475
+Derivative Term: -0.000003
+Angular Velocity : 0.000098
+Current Angle: -0.137047
+Torque : 0.000001
+-------------------------------------------------------------------
+Timestamp: 1.530000
+Proportional Term: 0.000478
+Integral Term: -0.000474
+Derivative Term: -0.000003
+Angular Velocity : 0.000100
+Current Angle: -0.136990
+Torque : 0.000001
+-------------------------------------------------------------------
+Timestamp: 1.540000
+Proportional Term: 0.000478
+Integral Term: -0.000474
+Derivative Term: -0.000003
+Angular Velocity : 0.000101
+Current Angle: -0.136932
+Torque : 0.000001
+-------------------------------------------------------------------
+Timestamp: 1.550000
+Proportional Term: 0.000478
+Integral Term: -0.000474
+Derivative Term: -0.000004
+Angular Velocity : 0.000103
+Current Angle: -0.136873
+Torque : 0.000001
+-------------------------------------------------------------------
+Timestamp: 1.560000
+Proportional Term: 0.000478
+Integral Term: -0.000474
+Derivative Term: -0.000004
+Angular Velocity : 0.000104
+Current Angle: -0.136814
+Torque : 0.000001
+-------------------------------------------------------------------
+Timestamp: 1.570000
+Proportional Term: 0.000478
+Integral Term: -0.000473
+Derivative Term: -0.000004
+Angular Velocity : 0.000105
+Current Angle: -0.136753
+Torque : 0.000001
+-------------------------------------------------------------------
+Timestamp: 1.580000
+Proportional Term: 0.000477
+Integral Term: -0.000473
+Derivative Term: -0.000004
+Angular Velocity : 0.000106
+Current Angle: -0.136693
+Torque : 0.000001
+-------------------------------------------------------------------
+Timestamp: 1.590000
+Proportional Term: 0.000477
+Integral Term: -0.000473
+Derivative Term: -0.000004
+Angular Velocity : 0.000107
+Current Angle: -0.136631
+Torque : 0.000001
+-------------------------------------------------------------------
+Timestamp: 1.600000
+Proportional Term: 0.000477
+Integral Term: -0.000473
+Derivative Term: -0.000004
+Angular Velocity : 0.000108
+Current Angle: -0.136569
+Torque : 0.000001
+-------------------------------------------------------------------
+Timestamp: 1.610000
+Proportional Term: 0.000477
+Integral Term: -0.000472
+Derivative Term: -0.000004
+Angular Velocity : 0.000109
+Current Angle: -0.136507
+Torque : 0.000001
+-------------------------------------------------------------------
+Timestamp: 1.620000
+Proportional Term: 0.000476
+Integral Term: -0.000472
+Derivative Term: -0.000004
+Angular Velocity : 0.000110
+Current Angle: -0.136444
+Torque : 0.000001
+-------------------------------------------------------------------
+Timestamp: 1.630000
+Proportional Term: 0.000476
+Integral Term: -0.000472
+Derivative Term: -0.000004
+Angular Velocity : 0.000111
+Current Angle: -0.136380
+Torque : 0.000001
+-------------------------------------------------------------------
+Timestamp: 1.640000
+Proportional Term: 0.000476
+Integral Term: -0.000472
+Derivative Term: -0.000004
+Angular Velocity : 0.000111
+Current Angle: -0.136316
+Torque : 0.000001
+-------------------------------------------------------------------
+Timestamp: 1.650000
+Proportional Term: 0.000476
+Integral Term: -0.000471
+Derivative Term: -0.000004
+Angular Velocity : 0.000112
+Current Angle: -0.136252
+Torque : 0.000001
+-------------------------------------------------------------------
+Timestamp: 1.660000
+Proportional Term: 0.000476
+Integral Term: -0.000471
+Derivative Term: -0.000004
+Angular Velocity : 0.000112
+Current Angle: -0.136188
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 1.670000
+Proportional Term: 0.000475
+Integral Term: -0.000471
+Derivative Term: -0.000004
+Angular Velocity : 0.000113
+Current Angle: -0.136123
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 1.680000
+Proportional Term: 0.000475
+Integral Term: -0.000471
+Derivative Term: -0.000004
+Angular Velocity : 0.000113
+Current Angle: -0.136058
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 1.690000
+Proportional Term: 0.000475
+Integral Term: -0.000470
+Derivative Term: -0.000004
+Angular Velocity : 0.000114
+Current Angle: -0.135993
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 1.700000
+Proportional Term: 0.000475
+Integral Term: -0.000470
+Derivative Term: -0.000004
+Angular Velocity : 0.000114
+Current Angle: -0.135927
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 1.710000
+Proportional Term: 0.000474
+Integral Term: -0.000470
+Derivative Term: -0.000004
+Angular Velocity : 0.000115
+Current Angle: -0.135862
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 1.720000
+Proportional Term: 0.000474
+Integral Term: -0.000470
+Derivative Term: -0.000004
+Angular Velocity : 0.000115
+Current Angle: -0.135796
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 1.730000
+Proportional Term: 0.000474
+Integral Term: -0.000470
+Derivative Term: -0.000004
+Angular Velocity : 0.000115
+Current Angle: -0.135730
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 1.740000
+Proportional Term: 0.000474
+Integral Term: -0.000469
+Derivative Term: -0.000004
+Angular Velocity : 0.000116
+Current Angle: -0.135663
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 1.750000
+Proportional Term: 0.000474
+Integral Term: -0.000469
+Derivative Term: -0.000004
+Angular Velocity : 0.000116
+Current Angle: -0.135597
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 1.760000
+Proportional Term: 0.000473
+Integral Term: -0.000469
+Derivative Term: -0.000004
+Angular Velocity : 0.000116
+Current Angle: -0.135531
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 1.770000
+Proportional Term: 0.000473
+Integral Term: -0.000469
+Derivative Term: -0.000004
+Angular Velocity : 0.000116
+Current Angle: -0.135464
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 1.780000
+Proportional Term: 0.000473
+Integral Term: -0.000468
+Derivative Term: -0.000004
+Angular Velocity : 0.000116
+Current Angle: -0.135397
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 1.790000
+Proportional Term: 0.000473
+Integral Term: -0.000468
+Derivative Term: -0.000004
+Angular Velocity : 0.000117
+Current Angle: -0.135330
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 1.800000
+Proportional Term: 0.000472
+Integral Term: -0.000468
+Derivative Term: -0.000004
+Angular Velocity : 0.000117
+Current Angle: -0.135264
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 1.810000
+Proportional Term: 0.000472
+Integral Term: -0.000468
+Derivative Term: -0.000004
+Angular Velocity : 0.000117
+Current Angle: -0.135197
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 1.820000
+Proportional Term: 0.000472
+Integral Term: -0.000467
+Derivative Term: -0.000004
+Angular Velocity : 0.000117
+Current Angle: -0.135130
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 1.830000
+Proportional Term: 0.000472
+Integral Term: -0.000467
+Derivative Term: -0.000004
+Angular Velocity : 0.000117
+Current Angle: -0.135062
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 1.840000
+Proportional Term: 0.000471
+Integral Term: -0.000467
+Derivative Term: -0.000004
+Angular Velocity : 0.000117
+Current Angle: -0.134995
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 1.850000
+Proportional Term: 0.000471
+Integral Term: -0.000467
+Derivative Term: -0.000004
+Angular Velocity : 0.000117
+Current Angle: -0.134928
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 1.860000
+Proportional Term: 0.000471
+Integral Term: -0.000466
+Derivative Term: -0.000004
+Angular Velocity : 0.000117
+Current Angle: -0.134861
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 1.870000
+Proportional Term: 0.000471
+Integral Term: -0.000466
+Derivative Term: -0.000004
+Angular Velocity : 0.000117
+Current Angle: -0.134794
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 1.880000
+Proportional Term: 0.000471
+Integral Term: -0.000466
+Derivative Term: -0.000004
+Angular Velocity : 0.000117
+Current Angle: -0.134726
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 1.890000
+Proportional Term: 0.000470
+Integral Term: -0.000466
+Derivative Term: -0.000004
+Angular Velocity : 0.000117
+Current Angle: -0.134659
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 1.900000
+Proportional Term: 0.000470
+Integral Term: -0.000466
+Derivative Term: -0.000004
+Angular Velocity : 0.000117
+Current Angle: -0.134592
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 1.910000
+Proportional Term: 0.000470
+Integral Term: -0.000465
+Derivative Term: -0.000004
+Angular Velocity : 0.000118
+Current Angle: -0.134524
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 1.920000
+Proportional Term: 0.000470
+Integral Term: -0.000465
+Derivative Term: -0.000004
+Angular Velocity : 0.000118
+Current Angle: -0.134457
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 1.930000
+Proportional Term: 0.000469
+Integral Term: -0.000465
+Derivative Term: -0.000004
+Angular Velocity : 0.000118
+Current Angle: -0.134390
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 1.940000
+Proportional Term: 0.000469
+Integral Term: -0.000465
+Derivative Term: -0.000004
+Angular Velocity : 0.000118
+Current Angle: -0.134322
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 1.950000
+Proportional Term: 0.000469
+Integral Term: -0.000464
+Derivative Term: -0.000004
+Angular Velocity : 0.000118
+Current Angle: -0.134255
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 1.960000
+Proportional Term: 0.000469
+Integral Term: -0.000464
+Derivative Term: -0.000004
+Angular Velocity : 0.000118
+Current Angle: -0.134188
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 1.970000
+Proportional Term: 0.000468
+Integral Term: -0.000464
+Derivative Term: -0.000004
+Angular Velocity : 0.000118
+Current Angle: -0.134120
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 1.980000
+Proportional Term: 0.000468
+Integral Term: -0.000464
+Derivative Term: -0.000004
+Angular Velocity : 0.000118
+Current Angle: -0.134053
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 1.990000
+Proportional Term: 0.000468
+Integral Term: -0.000463
+Derivative Term: -0.000004
+Angular Velocity : 0.000118
+Current Angle: -0.133986
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.000000
+Proportional Term: 0.000468
+Integral Term: -0.000463
+Derivative Term: -0.000004
+Angular Velocity : 0.000118
+Current Angle: -0.133918
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.010000
+Proportional Term: 0.000467
+Integral Term: -0.000463
+Derivative Term: -0.000004
+Angular Velocity : 0.000117
+Current Angle: -0.133851
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.020000
+Proportional Term: 0.000467
+Integral Term: -0.000463
+Derivative Term: -0.000004
+Angular Velocity : 0.000117
+Current Angle: -0.133784
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.030000
+Proportional Term: 0.000467
+Integral Term: -0.000462
+Derivative Term: -0.000004
+Angular Velocity : 0.000117
+Current Angle: -0.133716
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.040000
+Proportional Term: 0.000467
+Integral Term: -0.000462
+Derivative Term: -0.000004
+Angular Velocity : 0.000117
+Current Angle: -0.133649
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.050000
+Proportional Term: 0.000467
+Integral Term: -0.000462
+Derivative Term: -0.000004
+Angular Velocity : 0.000117
+Current Angle: -0.133582
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.060000
+Proportional Term: 0.000466
+Integral Term: -0.000462
+Derivative Term: -0.000004
+Angular Velocity : 0.000117
+Current Angle: -0.133515
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.070000
+Proportional Term: 0.000466
+Integral Term: -0.000462
+Derivative Term: -0.000004
+Angular Velocity : 0.000117
+Current Angle: -0.133447
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.080000
+Proportional Term: 0.000466
+Integral Term: -0.000461
+Derivative Term: -0.000004
+Angular Velocity : 0.000117
+Current Angle: -0.133380
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.090000
+Proportional Term: 0.000466
+Integral Term: -0.000461
+Derivative Term: -0.000004
+Angular Velocity : 0.000117
+Current Angle: -0.133313
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.100000
+Proportional Term: 0.000465
+Integral Term: -0.000461
+Derivative Term: -0.000004
+Angular Velocity : 0.000117
+Current Angle: -0.133246
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.110000
+Proportional Term: 0.000465
+Integral Term: -0.000461
+Derivative Term: -0.000004
+Angular Velocity : 0.000117
+Current Angle: -0.133179
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.120000
+Proportional Term: 0.000465
+Integral Term: -0.000460
+Derivative Term: -0.000004
+Angular Velocity : 0.000117
+Current Angle: -0.133112
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.130000
+Proportional Term: 0.000465
+Integral Term: -0.000460
+Derivative Term: -0.000004
+Angular Velocity : 0.000117
+Current Angle: -0.133045
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.140000
+Proportional Term: 0.000464
+Integral Term: -0.000460
+Derivative Term: -0.000004
+Angular Velocity : 0.000117
+Current Angle: -0.132978
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.150000
+Proportional Term: 0.000464
+Integral Term: -0.000460
+Derivative Term: -0.000004
+Angular Velocity : 0.000117
+Current Angle: -0.132911
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.160000
+Proportional Term: 0.000464
+Integral Term: -0.000459
+Derivative Term: -0.000004
+Angular Velocity : 0.000117
+Current Angle: -0.132844
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.170000
+Proportional Term: 0.000464
+Integral Term: -0.000459
+Derivative Term: -0.000004
+Angular Velocity : 0.000117
+Current Angle: -0.132777
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.180000
+Proportional Term: 0.000463
+Integral Term: -0.000459
+Derivative Term: -0.000004
+Angular Velocity : 0.000117
+Current Angle: -0.132710
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.190000
+Proportional Term: 0.000463
+Integral Term: -0.000459
+Derivative Term: -0.000004
+Angular Velocity : 0.000117
+Current Angle: -0.132643
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.200000
+Proportional Term: 0.000463
+Integral Term: -0.000459
+Derivative Term: -0.000004
+Angular Velocity : 0.000117
+Current Angle: -0.132576
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.210000
+Proportional Term: 0.000463
+Integral Term: -0.000458
+Derivative Term: -0.000004
+Angular Velocity : 0.000117
+Current Angle: -0.132509
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.220000
+Proportional Term: 0.000463
+Integral Term: -0.000458
+Derivative Term: -0.000004
+Angular Velocity : 0.000117
+Current Angle: -0.132442
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.230000
+Proportional Term: 0.000462
+Integral Term: -0.000458
+Derivative Term: -0.000004
+Angular Velocity : 0.000117
+Current Angle: -0.132375
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.240000
+Proportional Term: 0.000462
+Integral Term: -0.000458
+Derivative Term: -0.000004
+Angular Velocity : 0.000117
+Current Angle: -0.132309
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.250000
+Proportional Term: 0.000462
+Integral Term: -0.000457
+Derivative Term: -0.000004
+Angular Velocity : 0.000116
+Current Angle: -0.132242
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.260000
+Proportional Term: 0.000462
+Integral Term: -0.000457
+Derivative Term: -0.000004
+Angular Velocity : 0.000116
+Current Angle: -0.132175
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.270000
+Proportional Term: 0.000461
+Integral Term: -0.000457
+Derivative Term: -0.000004
+Angular Velocity : 0.000116
+Current Angle: -0.132109
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.280000
+Proportional Term: 0.000461
+Integral Term: -0.000457
+Derivative Term: -0.000004
+Angular Velocity : 0.000116
+Current Angle: -0.132042
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.290000
+Proportional Term: 0.000461
+Integral Term: -0.000456
+Derivative Term: -0.000004
+Angular Velocity : 0.000116
+Current Angle: -0.131975
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.300000
+Proportional Term: 0.000461
+Integral Term: -0.000456
+Derivative Term: -0.000004
+Angular Velocity : 0.000116
+Current Angle: -0.131909
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.310000
+Proportional Term: 0.000460
+Integral Term: -0.000456
+Derivative Term: -0.000004
+Angular Velocity : 0.000116
+Current Angle: -0.131842
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.320000
+Proportional Term: 0.000460
+Integral Term: -0.000456
+Derivative Term: -0.000004
+Angular Velocity : 0.000116
+Current Angle: -0.131776
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.330000
+Proportional Term: 0.000460
+Integral Term: -0.000456
+Derivative Term: -0.000004
+Angular Velocity : 0.000116
+Current Angle: -0.131709
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.340000
+Proportional Term: 0.000460
+Integral Term: -0.000455
+Derivative Term: -0.000004
+Angular Velocity : 0.000116
+Current Angle: -0.131643
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.350000
+Proportional Term: 0.000460
+Integral Term: -0.000455
+Derivative Term: -0.000004
+Angular Velocity : 0.000116
+Current Angle: -0.131576
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.360000
+Proportional Term: 0.000459
+Integral Term: -0.000455
+Derivative Term: -0.000004
+Angular Velocity : 0.000116
+Current Angle: -0.131510
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.370000
+Proportional Term: 0.000459
+Integral Term: -0.000455
+Derivative Term: -0.000004
+Angular Velocity : 0.000116
+Current Angle: -0.131444
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.380000
+Proportional Term: 0.000459
+Integral Term: -0.000454
+Derivative Term: -0.000004
+Angular Velocity : 0.000116
+Current Angle: -0.131377
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.390000
+Proportional Term: 0.000459
+Integral Term: -0.000454
+Derivative Term: -0.000004
+Angular Velocity : 0.000116
+Current Angle: -0.131311
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.400000
+Proportional Term: 0.000458
+Integral Term: -0.000454
+Derivative Term: -0.000004
+Angular Velocity : 0.000116
+Current Angle: -0.131245
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.410000
+Proportional Term: 0.000458
+Integral Term: -0.000454
+Derivative Term: -0.000004
+Angular Velocity : 0.000116
+Current Angle: -0.131179
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.420000
+Proportional Term: 0.000458
+Integral Term: -0.000453
+Derivative Term: -0.000004
+Angular Velocity : 0.000116
+Current Angle: -0.131112
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.430000
+Proportional Term: 0.000458
+Integral Term: -0.000453
+Derivative Term: -0.000004
+Angular Velocity : 0.000115
+Current Angle: -0.131046
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.440000
+Proportional Term: 0.000457
+Integral Term: -0.000453
+Derivative Term: -0.000004
+Angular Velocity : 0.000115
+Current Angle: -0.130980
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.450000
+Proportional Term: 0.000457
+Integral Term: -0.000453
+Derivative Term: -0.000004
+Angular Velocity : 0.000115
+Current Angle: -0.130914
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.460000
+Proportional Term: 0.000457
+Integral Term: -0.000453
+Derivative Term: -0.000004
+Angular Velocity : 0.000115
+Current Angle: -0.130848
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.470000
+Proportional Term: 0.000457
+Integral Term: -0.000452
+Derivative Term: -0.000004
+Angular Velocity : 0.000115
+Current Angle: -0.130782
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.480000
+Proportional Term: 0.000457
+Integral Term: -0.000452
+Derivative Term: -0.000004
+Angular Velocity : 0.000115
+Current Angle: -0.130716
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.490000
+Proportional Term: 0.000456
+Integral Term: -0.000452
+Derivative Term: -0.000004
+Angular Velocity : 0.000115
+Current Angle: -0.130650
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.500000
+Proportional Term: 0.000456
+Integral Term: -0.000452
+Derivative Term: -0.000004
+Angular Velocity : 0.000115
+Current Angle: -0.130584
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.510000
+Proportional Term: 0.000456
+Integral Term: -0.000451
+Derivative Term: -0.000004
+Angular Velocity : 0.000115
+Current Angle: -0.130518
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.520000
+Proportional Term: 0.000456
+Integral Term: -0.000451
+Derivative Term: -0.000004
+Angular Velocity : 0.000115
+Current Angle: -0.130452
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.530000
+Proportional Term: 0.000455
+Integral Term: -0.000451
+Derivative Term: -0.000004
+Angular Velocity : 0.000115
+Current Angle: -0.130386
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.540000
+Proportional Term: 0.000455
+Integral Term: -0.000451
+Derivative Term: -0.000004
+Angular Velocity : 0.000115
+Current Angle: -0.130321
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.550000
+Proportional Term: 0.000455
+Integral Term: -0.000450
+Derivative Term: -0.000004
+Angular Velocity : 0.000115
+Current Angle: -0.130255
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.560000
+Proportional Term: 0.000455
+Integral Term: -0.000450
+Derivative Term: -0.000004
+Angular Velocity : 0.000115
+Current Angle: -0.130189
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.570000
+Proportional Term: 0.000454
+Integral Term: -0.000450
+Derivative Term: -0.000004
+Angular Velocity : 0.000115
+Current Angle: -0.130123
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.580000
+Proportional Term: 0.000454
+Integral Term: -0.000450
+Derivative Term: -0.000004
+Angular Velocity : 0.000115
+Current Angle: -0.130058
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.590000
+Proportional Term: 0.000454
+Integral Term: -0.000450
+Derivative Term: -0.000004
+Angular Velocity : 0.000115
+Current Angle: -0.129992
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.600000
+Proportional Term: 0.000454
+Integral Term: -0.000449
+Derivative Term: -0.000004
+Angular Velocity : 0.000114
+Current Angle: -0.129927
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.610000
+Proportional Term: 0.000454
+Integral Term: -0.000449
+Derivative Term: -0.000004
+Angular Velocity : 0.000114
+Current Angle: -0.129861
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.620000
+Proportional Term: 0.000453
+Integral Term: -0.000449
+Derivative Term: -0.000004
+Angular Velocity : 0.000114
+Current Angle: -0.129795
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.630000
+Proportional Term: 0.000453
+Integral Term: -0.000449
+Derivative Term: -0.000004
+Angular Velocity : 0.000114
+Current Angle: -0.129730
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.640000
+Proportional Term: 0.000453
+Integral Term: -0.000448
+Derivative Term: -0.000004
+Angular Velocity : 0.000114
+Current Angle: -0.129665
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.650000
+Proportional Term: 0.000453
+Integral Term: -0.000448
+Derivative Term: -0.000004
+Angular Velocity : 0.000114
+Current Angle: -0.129599
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.660000
+Proportional Term: 0.000452
+Integral Term: -0.000448
+Derivative Term: -0.000004
+Angular Velocity : 0.000114
+Current Angle: -0.129534
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.670000
+Proportional Term: 0.000452
+Integral Term: -0.000448
+Derivative Term: -0.000004
+Angular Velocity : 0.000114
+Current Angle: -0.129468
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.680000
+Proportional Term: 0.000452
+Integral Term: -0.000448
+Derivative Term: -0.000004
+Angular Velocity : 0.000114
+Current Angle: -0.129403
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.690000
+Proportional Term: 0.000452
+Integral Term: -0.000447
+Derivative Term: -0.000004
+Angular Velocity : 0.000114
+Current Angle: -0.129338
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.700000
+Proportional Term: 0.000451
+Integral Term: -0.000447
+Derivative Term: -0.000004
+Angular Velocity : 0.000114
+Current Angle: -0.129272
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.710000
+Proportional Term: 0.000451
+Integral Term: -0.000447
+Derivative Term: -0.000004
+Angular Velocity : 0.000114
+Current Angle: -0.129207
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.720000
+Proportional Term: 0.000451
+Integral Term: -0.000447
+Derivative Term: -0.000004
+Angular Velocity : 0.000114
+Current Angle: -0.129142
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.730000
+Proportional Term: 0.000451
+Integral Term: -0.000446
+Derivative Term: -0.000004
+Angular Velocity : 0.000114
+Current Angle: -0.129077
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.740000
+Proportional Term: 0.000451
+Integral Term: -0.000446
+Derivative Term: -0.000004
+Angular Velocity : 0.000114
+Current Angle: -0.129012
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.750000
+Proportional Term: 0.000450
+Integral Term: -0.000446
+Derivative Term: -0.000004
+Angular Velocity : 0.000114
+Current Angle: -0.128947
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.760000
+Proportional Term: 0.000450
+Integral Term: -0.000446
+Derivative Term: -0.000004
+Angular Velocity : 0.000114
+Current Angle: -0.128881
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.770000
+Proportional Term: 0.000450
+Integral Term: -0.000446
+Derivative Term: -0.000004
+Angular Velocity : 0.000114
+Current Angle: -0.128816
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.780000
+Proportional Term: 0.000450
+Integral Term: -0.000445
+Derivative Term: -0.000004
+Angular Velocity : 0.000113
+Current Angle: -0.128751
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.790000
+Proportional Term: 0.000449
+Integral Term: -0.000445
+Derivative Term: -0.000004
+Angular Velocity : 0.000113
+Current Angle: -0.128686
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.800000
+Proportional Term: 0.000449
+Integral Term: -0.000445
+Derivative Term: -0.000004
+Angular Velocity : 0.000113
+Current Angle: -0.128622
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.810000
+Proportional Term: 0.000449
+Integral Term: -0.000445
+Derivative Term: -0.000004
+Angular Velocity : 0.000113
+Current Angle: -0.128557
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.820000
+Proportional Term: 0.000449
+Integral Term: -0.000444
+Derivative Term: -0.000004
+Angular Velocity : 0.000113
+Current Angle: -0.128492
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.830000
+Proportional Term: 0.000449
+Integral Term: -0.000444
+Derivative Term: -0.000004
+Angular Velocity : 0.000113
+Current Angle: -0.128427
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.840000
+Proportional Term: 0.000448
+Integral Term: -0.000444
+Derivative Term: -0.000004
+Angular Velocity : 0.000113
+Current Angle: -0.128362
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.850000
+Proportional Term: 0.000448
+Integral Term: -0.000444
+Derivative Term: -0.000004
+Angular Velocity : 0.000113
+Current Angle: -0.128297
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.860000
+Proportional Term: 0.000448
+Integral Term: -0.000444
+Derivative Term: -0.000004
+Angular Velocity : 0.000113
+Current Angle: -0.128233
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.870000
+Proportional Term: 0.000448
+Integral Term: -0.000443
+Derivative Term: -0.000004
+Angular Velocity : 0.000113
+Current Angle: -0.128168
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.880000
+Proportional Term: 0.000447
+Integral Term: -0.000443
+Derivative Term: -0.000004
+Angular Velocity : 0.000113
+Current Angle: -0.128103
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.890000
+Proportional Term: 0.000447
+Integral Term: -0.000443
+Derivative Term: -0.000004
+Angular Velocity : 0.000113
+Current Angle: -0.128039
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.900000
+Proportional Term: 0.000447
+Integral Term: -0.000443
+Derivative Term: -0.000004
+Angular Velocity : 0.000113
+Current Angle: -0.127974
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.910000
+Proportional Term: 0.000447
+Integral Term: -0.000442
+Derivative Term: -0.000004
+Angular Velocity : 0.000113
+Current Angle: -0.127909
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.920000
+Proportional Term: 0.000446
+Integral Term: -0.000442
+Derivative Term: -0.000004
+Angular Velocity : 0.000113
+Current Angle: -0.127845
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.930000
+Proportional Term: 0.000446
+Integral Term: -0.000442
+Derivative Term: -0.000004
+Angular Velocity : 0.000113
+Current Angle: -0.127780
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.940000
+Proportional Term: 0.000446
+Integral Term: -0.000442
+Derivative Term: -0.000004
+Angular Velocity : 0.000113
+Current Angle: -0.127716
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.950000
+Proportional Term: 0.000446
+Integral Term: -0.000441
+Derivative Term: -0.000004
+Angular Velocity : 0.000112
+Current Angle: -0.127651
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.960000
+Proportional Term: 0.000446
+Integral Term: -0.000441
+Derivative Term: -0.000004
+Angular Velocity : 0.000112
+Current Angle: -0.127587
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.970000
+Proportional Term: 0.000445
+Integral Term: -0.000441
+Derivative Term: -0.000004
+Angular Velocity : 0.000112
+Current Angle: -0.127523
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.980000
+Proportional Term: 0.000445
+Integral Term: -0.000441
+Derivative Term: -0.000004
+Angular Velocity : 0.000112
+Current Angle: -0.127458
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 2.990000
+Proportional Term: 0.000445
+Integral Term: -0.000441
+Derivative Term: -0.000004
+Angular Velocity : 0.000112
+Current Angle: -0.127394
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.000000
+Proportional Term: 0.000445
+Integral Term: -0.000440
+Derivative Term: -0.000004
+Angular Velocity : 0.000112
+Current Angle: -0.127330
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.010000
+Proportional Term: 0.000444
+Integral Term: -0.000440
+Derivative Term: -0.000004
+Angular Velocity : 0.000112
+Current Angle: -0.127265
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.020000
+Proportional Term: 0.000444
+Integral Term: -0.000440
+Derivative Term: -0.000004
+Angular Velocity : 0.000112
+Current Angle: -0.127201
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.030000
+Proportional Term: 0.000444
+Integral Term: -0.000440
+Derivative Term: -0.000004
+Angular Velocity : 0.000112
+Current Angle: -0.127137
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.040000
+Proportional Term: 0.000444
+Integral Term: -0.000439
+Derivative Term: -0.000004
+Angular Velocity : 0.000112
+Current Angle: -0.127073
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.050000
+Proportional Term: 0.000444
+Integral Term: -0.000439
+Derivative Term: -0.000004
+Angular Velocity : 0.000112
+Current Angle: -0.127009
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.060000
+Proportional Term: 0.000443
+Integral Term: -0.000439
+Derivative Term: -0.000004
+Angular Velocity : 0.000112
+Current Angle: -0.126945
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.070000
+Proportional Term: 0.000443
+Integral Term: -0.000439
+Derivative Term: -0.000004
+Angular Velocity : 0.000112
+Current Angle: -0.126880
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.080000
+Proportional Term: 0.000443
+Integral Term: -0.000439
+Derivative Term: -0.000004
+Angular Velocity : 0.000112
+Current Angle: -0.126816
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.090000
+Proportional Term: 0.000443
+Integral Term: -0.000438
+Derivative Term: -0.000004
+Angular Velocity : 0.000112
+Current Angle: -0.126752
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.100000
+Proportional Term: 0.000442
+Integral Term: -0.000438
+Derivative Term: -0.000004
+Angular Velocity : 0.000112
+Current Angle: -0.126688
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.110000
+Proportional Term: 0.000442
+Integral Term: -0.000438
+Derivative Term: -0.000004
+Angular Velocity : 0.000112
+Current Angle: -0.126625
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.120000
+Proportional Term: 0.000442
+Integral Term: -0.000438
+Derivative Term: -0.000004
+Angular Velocity : 0.000112
+Current Angle: -0.126561
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.130000
+Proportional Term: 0.000442
+Integral Term: -0.000437
+Derivative Term: -0.000004
+Angular Velocity : 0.000111
+Current Angle: -0.126497
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.140000
+Proportional Term: 0.000442
+Integral Term: -0.000437
+Derivative Term: -0.000004
+Angular Velocity : 0.000111
+Current Angle: -0.126433
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.150000
+Proportional Term: 0.000441
+Integral Term: -0.000437
+Derivative Term: -0.000004
+Angular Velocity : 0.000111
+Current Angle: -0.126369
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.160000
+Proportional Term: 0.000441
+Integral Term: -0.000437
+Derivative Term: -0.000004
+Angular Velocity : 0.000111
+Current Angle: -0.126305
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.170000
+Proportional Term: 0.000441
+Integral Term: -0.000437
+Derivative Term: -0.000004
+Angular Velocity : 0.000111
+Current Angle: -0.126242
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.180000
+Proportional Term: 0.000441
+Integral Term: -0.000436
+Derivative Term: -0.000004
+Angular Velocity : 0.000111
+Current Angle: -0.126178
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.190000
+Proportional Term: 0.000440
+Integral Term: -0.000436
+Derivative Term: -0.000004
+Angular Velocity : 0.000111
+Current Angle: -0.126114
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.200000
+Proportional Term: 0.000440
+Integral Term: -0.000436
+Derivative Term: -0.000004
+Angular Velocity : 0.000111
+Current Angle: -0.126051
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.210000
+Proportional Term: 0.000440
+Integral Term: -0.000436
+Derivative Term: -0.000004
+Angular Velocity : 0.000111
+Current Angle: -0.125987
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.220000
+Proportional Term: 0.000440
+Integral Term: -0.000436
+Derivative Term: -0.000004
+Angular Velocity : 0.000111
+Current Angle: -0.125923
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.230000
+Proportional Term: 0.000440
+Integral Term: -0.000435
+Derivative Term: -0.000004
+Angular Velocity : 0.000111
+Current Angle: -0.125860
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.240000
+Proportional Term: 0.000439
+Integral Term: -0.000435
+Derivative Term: -0.000004
+Angular Velocity : 0.000111
+Current Angle: -0.125796
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.250000
+Proportional Term: 0.000439
+Integral Term: -0.000435
+Derivative Term: -0.000004
+Angular Velocity : 0.000111
+Current Angle: -0.125733
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.260000
+Proportional Term: 0.000439
+Integral Term: -0.000435
+Derivative Term: -0.000004
+Angular Velocity : 0.000111
+Current Angle: -0.125669
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.270000
+Proportional Term: 0.000439
+Integral Term: -0.000434
+Derivative Term: -0.000004
+Angular Velocity : 0.000111
+Current Angle: -0.125606
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.280000
+Proportional Term: 0.000438
+Integral Term: -0.000434
+Derivative Term: -0.000004
+Angular Velocity : 0.000111
+Current Angle: -0.125543
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.290000
+Proportional Term: 0.000438
+Integral Term: -0.000434
+Derivative Term: -0.000004
+Angular Velocity : 0.000111
+Current Angle: -0.125479
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.300000
+Proportional Term: 0.000438
+Integral Term: -0.000434
+Derivative Term: -0.000004
+Angular Velocity : 0.000111
+Current Angle: -0.125416
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.310000
+Proportional Term: 0.000438
+Integral Term: -0.000434
+Derivative Term: -0.000004
+Angular Velocity : 0.000110
+Current Angle: -0.125353
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.320000
+Proportional Term: 0.000438
+Integral Term: -0.000433
+Derivative Term: -0.000004
+Angular Velocity : 0.000110
+Current Angle: -0.125289
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.330000
+Proportional Term: 0.000437
+Integral Term: -0.000433
+Derivative Term: -0.000004
+Angular Velocity : 0.000110
+Current Angle: -0.125226
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.340000
+Proportional Term: 0.000437
+Integral Term: -0.000433
+Derivative Term: -0.000004
+Angular Velocity : 0.000110
+Current Angle: -0.125163
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.350000
+Proportional Term: 0.000437
+Integral Term: -0.000433
+Derivative Term: -0.000004
+Angular Velocity : 0.000110
+Current Angle: -0.125100
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.360000
+Proportional Term: 0.000437
+Integral Term: -0.000432
+Derivative Term: -0.000004
+Angular Velocity : 0.000110
+Current Angle: -0.125037
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.370000
+Proportional Term: 0.000436
+Integral Term: -0.000432
+Derivative Term: -0.000004
+Angular Velocity : 0.000110
+Current Angle: -0.124974
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.380000
+Proportional Term: 0.000436
+Integral Term: -0.000432
+Derivative Term: -0.000004
+Angular Velocity : 0.000110
+Current Angle: -0.124911
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.390000
+Proportional Term: 0.000436
+Integral Term: -0.000432
+Derivative Term: -0.000004
+Angular Velocity : 0.000110
+Current Angle: -0.124847
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.400000
+Proportional Term: 0.000436
+Integral Term: -0.000432
+Derivative Term: -0.000004
+Angular Velocity : 0.000110
+Current Angle: -0.124784
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.410000
+Proportional Term: 0.000436
+Integral Term: -0.000431
+Derivative Term: -0.000004
+Angular Velocity : 0.000110
+Current Angle: -0.124722
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.420000
+Proportional Term: 0.000435
+Integral Term: -0.000431
+Derivative Term: -0.000004
+Angular Velocity : 0.000110
+Current Angle: -0.124659
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.430000
+Proportional Term: 0.000435
+Integral Term: -0.000431
+Derivative Term: -0.000004
+Angular Velocity : 0.000110
+Current Angle: -0.124596
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.440000
+Proportional Term: 0.000435
+Integral Term: -0.000431
+Derivative Term: -0.000004
+Angular Velocity : 0.000110
+Current Angle: -0.124533
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.450000
+Proportional Term: 0.000435
+Integral Term: -0.000430
+Derivative Term: -0.000004
+Angular Velocity : 0.000110
+Current Angle: -0.124470
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.460000
+Proportional Term: 0.000434
+Integral Term: -0.000430
+Derivative Term: -0.000004
+Angular Velocity : 0.000110
+Current Angle: -0.124407
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.470000
+Proportional Term: 0.000434
+Integral Term: -0.000430
+Derivative Term: -0.000004
+Angular Velocity : 0.000110
+Current Angle: -0.124344
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.480000
+Proportional Term: 0.000434
+Integral Term: -0.000430
+Derivative Term: -0.000004
+Angular Velocity : 0.000110
+Current Angle: -0.124282
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.490000
+Proportional Term: 0.000434
+Integral Term: -0.000430
+Derivative Term: -0.000004
+Angular Velocity : 0.000109
+Current Angle: -0.124219
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.500000
+Proportional Term: 0.000434
+Integral Term: -0.000429
+Derivative Term: -0.000004
+Angular Velocity : 0.000109
+Current Angle: -0.124156
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.510000
+Proportional Term: 0.000433
+Integral Term: -0.000429
+Derivative Term: -0.000004
+Angular Velocity : 0.000109
+Current Angle: -0.124094
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.520000
+Proportional Term: 0.000433
+Integral Term: -0.000429
+Derivative Term: -0.000004
+Angular Velocity : 0.000109
+Current Angle: -0.124031
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.530000
+Proportional Term: 0.000433
+Integral Term: -0.000429
+Derivative Term: -0.000004
+Angular Velocity : 0.000109
+Current Angle: -0.123968
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.540000
+Proportional Term: 0.000433
+Integral Term: -0.000429
+Derivative Term: -0.000004
+Angular Velocity : 0.000109
+Current Angle: -0.123906
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.550000
+Proportional Term: 0.000433
+Integral Term: -0.000428
+Derivative Term: -0.000004
+Angular Velocity : 0.000109
+Current Angle: -0.123843
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.560000
+Proportional Term: 0.000432
+Integral Term: -0.000428
+Derivative Term: -0.000004
+Angular Velocity : 0.000109
+Current Angle: -0.123781
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.570000
+Proportional Term: 0.000432
+Integral Term: -0.000428
+Derivative Term: -0.000004
+Angular Velocity : 0.000109
+Current Angle: -0.123718
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.580000
+Proportional Term: 0.000432
+Integral Term: -0.000428
+Derivative Term: -0.000004
+Angular Velocity : 0.000109
+Current Angle: -0.123656
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.590000
+Proportional Term: 0.000432
+Integral Term: -0.000427
+Derivative Term: -0.000004
+Angular Velocity : 0.000109
+Current Angle: -0.123593
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.600000
+Proportional Term: 0.000431
+Integral Term: -0.000427
+Derivative Term: -0.000004
+Angular Velocity : 0.000109
+Current Angle: -0.123531
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.610000
+Proportional Term: 0.000431
+Integral Term: -0.000427
+Derivative Term: -0.000004
+Angular Velocity : 0.000109
+Current Angle: -0.123469
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.620000
+Proportional Term: 0.000431
+Integral Term: -0.000427
+Derivative Term: -0.000004
+Angular Velocity : 0.000109
+Current Angle: -0.123406
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.630000
+Proportional Term: 0.000431
+Integral Term: -0.000427
+Derivative Term: -0.000004
+Angular Velocity : 0.000109
+Current Angle: -0.123344
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.640000
+Proportional Term: 0.000431
+Integral Term: -0.000426
+Derivative Term: -0.000004
+Angular Velocity : 0.000109
+Current Angle: -0.123282
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.650000
+Proportional Term: 0.000430
+Integral Term: -0.000426
+Derivative Term: -0.000004
+Angular Velocity : 0.000109
+Current Angle: -0.123220
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.660000
+Proportional Term: 0.000430
+Integral Term: -0.000426
+Derivative Term: -0.000004
+Angular Velocity : 0.000109
+Current Angle: -0.123158
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.670000
+Proportional Term: 0.000430
+Integral Term: -0.000426
+Derivative Term: -0.000004
+Angular Velocity : 0.000108
+Current Angle: -0.123095
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.680000
+Proportional Term: 0.000430
+Integral Term: -0.000426
+Derivative Term: -0.000004
+Angular Velocity : 0.000108
+Current Angle: -0.123033
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.690000
+Proportional Term: 0.000429
+Integral Term: -0.000425
+Derivative Term: -0.000004
+Angular Velocity : 0.000108
+Current Angle: -0.122971
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.700000
+Proportional Term: 0.000429
+Integral Term: -0.000425
+Derivative Term: -0.000004
+Angular Velocity : 0.000108
+Current Angle: -0.122909
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.710000
+Proportional Term: 0.000429
+Integral Term: -0.000425
+Derivative Term: -0.000004
+Angular Velocity : 0.000108
+Current Angle: -0.122847
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.720000
+Proportional Term: 0.000429
+Integral Term: -0.000425
+Derivative Term: -0.000004
+Angular Velocity : 0.000108
+Current Angle: -0.122785
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.730000
+Proportional Term: 0.000429
+Integral Term: -0.000424
+Derivative Term: -0.000004
+Angular Velocity : 0.000108
+Current Angle: -0.122723
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.740000
+Proportional Term: 0.000428
+Integral Term: -0.000424
+Derivative Term: -0.000004
+Angular Velocity : 0.000108
+Current Angle: -0.122661
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.750000
+Proportional Term: 0.000428
+Integral Term: -0.000424
+Derivative Term: -0.000004
+Angular Velocity : 0.000108
+Current Angle: -0.122599
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.760000
+Proportional Term: 0.000428
+Integral Term: -0.000424
+Derivative Term: -0.000004
+Angular Velocity : 0.000108
+Current Angle: -0.122537
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.770000
+Proportional Term: 0.000428
+Integral Term: -0.000424
+Derivative Term: -0.000004
+Angular Velocity : 0.000108
+Current Angle: -0.122476
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.780000
+Proportional Term: 0.000428
+Integral Term: -0.000423
+Derivative Term: -0.000004
+Angular Velocity : 0.000108
+Current Angle: -0.122414
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.790000
+Proportional Term: 0.000427
+Integral Term: -0.000423
+Derivative Term: -0.000004
+Angular Velocity : 0.000108
+Current Angle: -0.122352
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.800000
+Proportional Term: 0.000427
+Integral Term: -0.000423
+Derivative Term: -0.000004
+Angular Velocity : 0.000108
+Current Angle: -0.122290
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.810000
+Proportional Term: 0.000427
+Integral Term: -0.000423
+Derivative Term: -0.000004
+Angular Velocity : 0.000108
+Current Angle: -0.122229
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.820000
+Proportional Term: 0.000427
+Integral Term: -0.000423
+Derivative Term: -0.000004
+Angular Velocity : 0.000108
+Current Angle: -0.122167
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.830000
+Proportional Term: 0.000426
+Integral Term: -0.000422
+Derivative Term: -0.000004
+Angular Velocity : 0.000108
+Current Angle: -0.122105
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.840000
+Proportional Term: 0.000426
+Integral Term: -0.000422
+Derivative Term: -0.000004
+Angular Velocity : 0.000108
+Current Angle: -0.122044
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.850000
+Proportional Term: 0.000426
+Integral Term: -0.000422
+Derivative Term: -0.000004
+Angular Velocity : 0.000107
+Current Angle: -0.121982
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.860000
+Proportional Term: 0.000426
+Integral Term: -0.000422
+Derivative Term: -0.000004
+Angular Velocity : 0.000107
+Current Angle: -0.121920
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.870000
+Proportional Term: 0.000426
+Integral Term: -0.000421
+Derivative Term: -0.000004
+Angular Velocity : 0.000107
+Current Angle: -0.121859
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.880000
+Proportional Term: 0.000425
+Integral Term: -0.000421
+Derivative Term: -0.000004
+Angular Velocity : 0.000107
+Current Angle: -0.121797
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.890000
+Proportional Term: 0.000425
+Integral Term: -0.000421
+Derivative Term: -0.000004
+Angular Velocity : 0.000107
+Current Angle: -0.121736
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.900000
+Proportional Term: 0.000425
+Integral Term: -0.000421
+Derivative Term: -0.000004
+Angular Velocity : 0.000107
+Current Angle: -0.121675
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.910000
+Proportional Term: 0.000425
+Integral Term: -0.000421
+Derivative Term: -0.000004
+Angular Velocity : 0.000107
+Current Angle: -0.121613
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.920000
+Proportional Term: 0.000425
+Integral Term: -0.000420
+Derivative Term: -0.000004
+Angular Velocity : 0.000107
+Current Angle: -0.121552
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.930000
+Proportional Term: 0.000424
+Integral Term: -0.000420
+Derivative Term: -0.000004
+Angular Velocity : 0.000107
+Current Angle: -0.121490
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.940000
+Proportional Term: 0.000424
+Integral Term: -0.000420
+Derivative Term: -0.000004
+Angular Velocity : 0.000107
+Current Angle: -0.121429
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.950000
+Proportional Term: 0.000424
+Integral Term: -0.000420
+Derivative Term: -0.000004
+Angular Velocity : 0.000107
+Current Angle: -0.121368
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.960000
+Proportional Term: 0.000424
+Integral Term: -0.000420
+Derivative Term: -0.000004
+Angular Velocity : 0.000107
+Current Angle: -0.121307
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.970000
+Proportional Term: 0.000423
+Integral Term: -0.000419
+Derivative Term: -0.000004
+Angular Velocity : 0.000107
+Current Angle: -0.121245
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.980000
+Proportional Term: 0.000423
+Integral Term: -0.000419
+Derivative Term: -0.000004
+Angular Velocity : 0.000107
+Current Angle: -0.121184
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 3.990000
+Proportional Term: 0.000423
+Integral Term: -0.000419
+Derivative Term: -0.000004
+Angular Velocity : 0.000107
+Current Angle: -0.121123
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.000000
+Proportional Term: 0.000423
+Integral Term: -0.000419
+Derivative Term: -0.000004
+Angular Velocity : 0.000107
+Current Angle: -0.121062
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.010000
+Proportional Term: 0.000423
+Integral Term: -0.000418
+Derivative Term: -0.000004
+Angular Velocity : 0.000107
+Current Angle: -0.121001
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.020000
+Proportional Term: 0.000422
+Integral Term: -0.000418
+Derivative Term: -0.000004
+Angular Velocity : 0.000107
+Current Angle: -0.120940
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.030000
+Proportional Term: 0.000422
+Integral Term: -0.000418
+Derivative Term: -0.000004
+Angular Velocity : 0.000107
+Current Angle: -0.120879
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.040000
+Proportional Term: 0.000422
+Integral Term: -0.000418
+Derivative Term: -0.000004
+Angular Velocity : 0.000106
+Current Angle: -0.120818
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.050000
+Proportional Term: 0.000422
+Integral Term: -0.000418
+Derivative Term: -0.000004
+Angular Velocity : 0.000106
+Current Angle: -0.120757
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.060000
+Proportional Term: 0.000422
+Integral Term: -0.000417
+Derivative Term: -0.000004
+Angular Velocity : 0.000106
+Current Angle: -0.120696
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.070000
+Proportional Term: 0.000421
+Integral Term: -0.000417
+Derivative Term: -0.000004
+Angular Velocity : 0.000106
+Current Angle: -0.120635
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.080000
+Proportional Term: 0.000421
+Integral Term: -0.000417
+Derivative Term: -0.000004
+Angular Velocity : 0.000106
+Current Angle: -0.120574
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.090000
+Proportional Term: 0.000421
+Integral Term: -0.000417
+Derivative Term: -0.000004
+Angular Velocity : 0.000106
+Current Angle: -0.120513
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.100000
+Proportional Term: 0.000421
+Integral Term: -0.000417
+Derivative Term: -0.000004
+Angular Velocity : 0.000106
+Current Angle: -0.120452
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.110000
+Proportional Term: 0.000420
+Integral Term: -0.000416
+Derivative Term: -0.000004
+Angular Velocity : 0.000106
+Current Angle: -0.120392
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.120000
+Proportional Term: 0.000420
+Integral Term: -0.000416
+Derivative Term: -0.000004
+Angular Velocity : 0.000106
+Current Angle: -0.120331
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.130000
+Proportional Term: 0.000420
+Integral Term: -0.000416
+Derivative Term: -0.000004
+Angular Velocity : 0.000106
+Current Angle: -0.120270
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.140000
+Proportional Term: 0.000420
+Integral Term: -0.000416
+Derivative Term: -0.000004
+Angular Velocity : 0.000106
+Current Angle: -0.120209
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.150000
+Proportional Term: 0.000420
+Integral Term: -0.000416
+Derivative Term: -0.000004
+Angular Velocity : 0.000106
+Current Angle: -0.120149
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.160000
+Proportional Term: 0.000419
+Integral Term: -0.000415
+Derivative Term: -0.000004
+Angular Velocity : 0.000106
+Current Angle: -0.120088
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.170000
+Proportional Term: 0.000419
+Integral Term: -0.000415
+Derivative Term: -0.000004
+Angular Velocity : 0.000106
+Current Angle: -0.120028
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.180000
+Proportional Term: 0.000419
+Integral Term: -0.000415
+Derivative Term: -0.000004
+Angular Velocity : 0.000106
+Current Angle: -0.119967
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.190000
+Proportional Term: 0.000419
+Integral Term: -0.000415
+Derivative Term: -0.000004
+Angular Velocity : 0.000106
+Current Angle: -0.119906
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.200000
+Proportional Term: 0.000419
+Integral Term: -0.000414
+Derivative Term: -0.000004
+Angular Velocity : 0.000106
+Current Angle: -0.119846
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.210000
+Proportional Term: 0.000418
+Integral Term: -0.000414
+Derivative Term: -0.000004
+Angular Velocity : 0.000106
+Current Angle: -0.119785
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.220000
+Proportional Term: 0.000418
+Integral Term: -0.000414
+Derivative Term: -0.000004
+Angular Velocity : 0.000106
+Current Angle: -0.119725
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.230000
+Proportional Term: 0.000418
+Integral Term: -0.000414
+Derivative Term: -0.000004
+Angular Velocity : 0.000105
+Current Angle: -0.119665
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.240000
+Proportional Term: 0.000418
+Integral Term: -0.000414
+Derivative Term: -0.000004
+Angular Velocity : 0.000105
+Current Angle: -0.119604
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.250000
+Proportional Term: 0.000417
+Integral Term: -0.000413
+Derivative Term: -0.000004
+Angular Velocity : 0.000105
+Current Angle: -0.119544
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.260000
+Proportional Term: 0.000417
+Integral Term: -0.000413
+Derivative Term: -0.000004
+Angular Velocity : 0.000105
+Current Angle: -0.119483
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.270000
+Proportional Term: 0.000417
+Integral Term: -0.000413
+Derivative Term: -0.000004
+Angular Velocity : 0.000105
+Current Angle: -0.119423
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.280000
+Proportional Term: 0.000417
+Integral Term: -0.000413
+Derivative Term: -0.000004
+Angular Velocity : 0.000105
+Current Angle: -0.119363
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.290000
+Proportional Term: 0.000417
+Integral Term: -0.000413
+Derivative Term: -0.000004
+Angular Velocity : 0.000105
+Current Angle: -0.119303
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.300000
+Proportional Term: 0.000416
+Integral Term: -0.000412
+Derivative Term: -0.000004
+Angular Velocity : 0.000105
+Current Angle: -0.119242
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.310000
+Proportional Term: 0.000416
+Integral Term: -0.000412
+Derivative Term: -0.000004
+Angular Velocity : 0.000105
+Current Angle: -0.119182
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.320000
+Proportional Term: 0.000416
+Integral Term: -0.000412
+Derivative Term: -0.000004
+Angular Velocity : 0.000105
+Current Angle: -0.119122
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.330000
+Proportional Term: 0.000416
+Integral Term: -0.000412
+Derivative Term: -0.000004
+Angular Velocity : 0.000105
+Current Angle: -0.119062
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.340000
+Proportional Term: 0.000416
+Integral Term: -0.000412
+Derivative Term: -0.000004
+Angular Velocity : 0.000105
+Current Angle: -0.119002
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.350000
+Proportional Term: 0.000415
+Integral Term: -0.000411
+Derivative Term: -0.000004
+Angular Velocity : 0.000105
+Current Angle: -0.118942
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.360000
+Proportional Term: 0.000415
+Integral Term: -0.000411
+Derivative Term: -0.000004
+Angular Velocity : 0.000105
+Current Angle: -0.118882
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.370000
+Proportional Term: 0.000415
+Integral Term: -0.000411
+Derivative Term: -0.000004
+Angular Velocity : 0.000105
+Current Angle: -0.118822
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.380000
+Proportional Term: 0.000415
+Integral Term: -0.000411
+Derivative Term: -0.000004
+Angular Velocity : 0.000105
+Current Angle: -0.118762
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.390000
+Proportional Term: 0.000415
+Integral Term: -0.000411
+Derivative Term: -0.000004
+Angular Velocity : 0.000105
+Current Angle: -0.118702
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.400000
+Proportional Term: 0.000414
+Integral Term: -0.000410
+Derivative Term: -0.000004
+Angular Velocity : 0.000105
+Current Angle: -0.118642
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.410000
+Proportional Term: 0.000414
+Integral Term: -0.000410
+Derivative Term: -0.000004
+Angular Velocity : 0.000104
+Current Angle: -0.118582
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.420000
+Proportional Term: 0.000414
+Integral Term: -0.000410
+Derivative Term: -0.000004
+Angular Velocity : 0.000104
+Current Angle: -0.118522
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.430000
+Proportional Term: 0.000414
+Integral Term: -0.000410
+Derivative Term: -0.000004
+Angular Velocity : 0.000104
+Current Angle: -0.118463
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.440000
+Proportional Term: 0.000414
+Integral Term: -0.000410
+Derivative Term: -0.000004
+Angular Velocity : 0.000104
+Current Angle: -0.118403
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.450000
+Proportional Term: 0.000413
+Integral Term: -0.000409
+Derivative Term: -0.000004
+Angular Velocity : 0.000104
+Current Angle: -0.118343
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.460000
+Proportional Term: 0.000413
+Integral Term: -0.000409
+Derivative Term: -0.000004
+Angular Velocity : 0.000104
+Current Angle: -0.118283
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.470000
+Proportional Term: 0.000413
+Integral Term: -0.000409
+Derivative Term: -0.000004
+Angular Velocity : 0.000104
+Current Angle: -0.118224
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.480000
+Proportional Term: 0.000413
+Integral Term: -0.000409
+Derivative Term: -0.000004
+Angular Velocity : 0.000104
+Current Angle: -0.118164
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.490000
+Proportional Term: 0.000412
+Integral Term: -0.000408
+Derivative Term: -0.000004
+Angular Velocity : 0.000104
+Current Angle: -0.118104
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.500000
+Proportional Term: 0.000412
+Integral Term: -0.000408
+Derivative Term: -0.000004
+Angular Velocity : 0.000104
+Current Angle: -0.118045
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.510000
+Proportional Term: 0.000412
+Integral Term: -0.000408
+Derivative Term: -0.000004
+Angular Velocity : 0.000104
+Current Angle: -0.117985
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.520000
+Proportional Term: 0.000412
+Integral Term: -0.000408
+Derivative Term: -0.000004
+Angular Velocity : 0.000104
+Current Angle: -0.117926
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.530000
+Proportional Term: 0.000412
+Integral Term: -0.000408
+Derivative Term: -0.000004
+Angular Velocity : 0.000104
+Current Angle: -0.117866
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.540000
+Proportional Term: 0.000411
+Integral Term: -0.000407
+Derivative Term: -0.000004
+Angular Velocity : 0.000104
+Current Angle: -0.117807
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.550000
+Proportional Term: 0.000411
+Integral Term: -0.000407
+Derivative Term: -0.000004
+Angular Velocity : 0.000104
+Current Angle: -0.117747
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.560000
+Proportional Term: 0.000411
+Integral Term: -0.000407
+Derivative Term: -0.000004
+Angular Velocity : 0.000104
+Current Angle: -0.117688
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.570000
+Proportional Term: 0.000411
+Integral Term: -0.000407
+Derivative Term: -0.000004
+Angular Velocity : 0.000104
+Current Angle: -0.117628
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.580000
+Proportional Term: 0.000411
+Integral Term: -0.000407
+Derivative Term: -0.000004
+Angular Velocity : 0.000104
+Current Angle: -0.117569
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.590000
+Proportional Term: 0.000410
+Integral Term: -0.000406
+Derivative Term: -0.000004
+Angular Velocity : 0.000104
+Current Angle: -0.117510
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.600000
+Proportional Term: 0.000410
+Integral Term: -0.000406
+Derivative Term: -0.000004
+Angular Velocity : 0.000103
+Current Angle: -0.117450
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.610000
+Proportional Term: 0.000410
+Integral Term: -0.000406
+Derivative Term: -0.000004
+Angular Velocity : 0.000103
+Current Angle: -0.117391
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.620000
+Proportional Term: 0.000410
+Integral Term: -0.000406
+Derivative Term: -0.000004
+Angular Velocity : 0.000103
+Current Angle: -0.117332
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.630000
+Proportional Term: 0.000410
+Integral Term: -0.000406
+Derivative Term: -0.000004
+Angular Velocity : 0.000103
+Current Angle: -0.117273
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.640000
+Proportional Term: 0.000409
+Integral Term: -0.000405
+Derivative Term: -0.000004
+Angular Velocity : 0.000103
+Current Angle: -0.117213
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.650000
+Proportional Term: 0.000409
+Integral Term: -0.000405
+Derivative Term: -0.000004
+Angular Velocity : 0.000103
+Current Angle: -0.117154
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.660000
+Proportional Term: 0.000409
+Integral Term: -0.000405
+Derivative Term: -0.000004
+Angular Velocity : 0.000103
+Current Angle: -0.117095
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.670000
+Proportional Term: 0.000409
+Integral Term: -0.000405
+Derivative Term: -0.000004
+Angular Velocity : 0.000103
+Current Angle: -0.117036
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.680000
+Proportional Term: 0.000409
+Integral Term: -0.000405
+Derivative Term: -0.000004
+Angular Velocity : 0.000103
+Current Angle: -0.116977
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.690000
+Proportional Term: 0.000408
+Integral Term: -0.000404
+Derivative Term: -0.000004
+Angular Velocity : 0.000103
+Current Angle: -0.116918
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.700000
+Proportional Term: 0.000408
+Integral Term: -0.000404
+Derivative Term: -0.000004
+Angular Velocity : 0.000103
+Current Angle: -0.116859
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.710000
+Proportional Term: 0.000408
+Integral Term: -0.000404
+Derivative Term: -0.000004
+Angular Velocity : 0.000103
+Current Angle: -0.116800
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.720000
+Proportional Term: 0.000408
+Integral Term: -0.000404
+Derivative Term: -0.000004
+Angular Velocity : 0.000103
+Current Angle: -0.116741
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.730000
+Proportional Term: 0.000408
+Integral Term: -0.000404
+Derivative Term: -0.000004
+Angular Velocity : 0.000103
+Current Angle: -0.116682
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.740000
+Proportional Term: 0.000407
+Integral Term: -0.000403
+Derivative Term: -0.000004
+Angular Velocity : 0.000103
+Current Angle: -0.116623
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.750000
+Proportional Term: 0.000407
+Integral Term: -0.000403
+Derivative Term: -0.000004
+Angular Velocity : 0.000103
+Current Angle: -0.116564
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.760000
+Proportional Term: 0.000407
+Integral Term: -0.000403
+Derivative Term: -0.000004
+Angular Velocity : 0.000103
+Current Angle: -0.116506
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.770000
+Proportional Term: 0.000407
+Integral Term: -0.000403
+Derivative Term: -0.000004
+Angular Velocity : 0.000103
+Current Angle: -0.116447
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.780000
+Proportional Term: 0.000406
+Integral Term: -0.000403
+Derivative Term: -0.000004
+Angular Velocity : 0.000103
+Current Angle: -0.116388
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.790000
+Proportional Term: 0.000406
+Integral Term: -0.000402
+Derivative Term: -0.000004
+Angular Velocity : 0.000103
+Current Angle: -0.116329
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.800000
+Proportional Term: 0.000406
+Integral Term: -0.000402
+Derivative Term: -0.000004
+Angular Velocity : 0.000102
+Current Angle: -0.116271
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.810000
+Proportional Term: 0.000406
+Integral Term: -0.000402
+Derivative Term: -0.000004
+Angular Velocity : 0.000102
+Current Angle: -0.116212
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.820000
+Proportional Term: 0.000406
+Integral Term: -0.000402
+Derivative Term: -0.000004
+Angular Velocity : 0.000102
+Current Angle: -0.116153
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.830000
+Proportional Term: 0.000405
+Integral Term: -0.000402
+Derivative Term: -0.000004
+Angular Velocity : 0.000102
+Current Angle: -0.116095
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.840000
+Proportional Term: 0.000405
+Integral Term: -0.000401
+Derivative Term: -0.000004
+Angular Velocity : 0.000102
+Current Angle: -0.116036
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.850000
+Proportional Term: 0.000405
+Integral Term: -0.000401
+Derivative Term: -0.000004
+Angular Velocity : 0.000102
+Current Angle: -0.115978
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.860000
+Proportional Term: 0.000405
+Integral Term: -0.000401
+Derivative Term: -0.000004
+Angular Velocity : 0.000102
+Current Angle: -0.115919
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.870000
+Proportional Term: 0.000405
+Integral Term: -0.000401
+Derivative Term: -0.000004
+Angular Velocity : 0.000102
+Current Angle: -0.115861
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.880000
+Proportional Term: 0.000404
+Integral Term: -0.000401
+Derivative Term: -0.000004
+Angular Velocity : 0.000102
+Current Angle: -0.115802
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.890000
+Proportional Term: 0.000404
+Integral Term: -0.000400
+Derivative Term: -0.000004
+Angular Velocity : 0.000102
+Current Angle: -0.115744
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.900000
+Proportional Term: 0.000404
+Integral Term: -0.000400
+Derivative Term: -0.000004
+Angular Velocity : 0.000102
+Current Angle: -0.115685
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.910000
+Proportional Term: 0.000404
+Integral Term: -0.000400
+Derivative Term: -0.000004
+Angular Velocity : 0.000102
+Current Angle: -0.115627
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.920000
+Proportional Term: 0.000404
+Integral Term: -0.000400
+Derivative Term: -0.000004
+Angular Velocity : 0.000102
+Current Angle: -0.115569
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.930000
+Proportional Term: 0.000403
+Integral Term: -0.000399
+Derivative Term: -0.000004
+Angular Velocity : 0.000102
+Current Angle: -0.115510
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.940000
+Proportional Term: 0.000403
+Integral Term: -0.000399
+Derivative Term: -0.000004
+Angular Velocity : 0.000102
+Current Angle: -0.115452
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.950000
+Proportional Term: 0.000403
+Integral Term: -0.000399
+Derivative Term: -0.000004
+Angular Velocity : 0.000102
+Current Angle: -0.115394
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.960000
+Proportional Term: 0.000403
+Integral Term: -0.000399
+Derivative Term: -0.000004
+Angular Velocity : 0.000102
+Current Angle: -0.115335
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.970000
+Proportional Term: 0.000403
+Integral Term: -0.000399
+Derivative Term: -0.000004
+Angular Velocity : 0.000102
+Current Angle: -0.115277
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.980000
+Proportional Term: 0.000402
+Integral Term: -0.000398
+Derivative Term: -0.000004
+Angular Velocity : 0.000102
+Current Angle: -0.115219
+Torque : 0.000000
+-------------------------------------------------------------------
+Timestamp: 4.990000
+Proportional Term: 0.000402
+Integral Term: -0.000398
+Derivative Term: -0.000004
+Angular Velocity : 0.000101
+Current Angle: -0.115161
+Torque : 0.000000
+-------------------------------------------------------------------
