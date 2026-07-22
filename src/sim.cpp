@@ -2,13 +2,20 @@
 #include <flying_horror/motor_output.hpp>
 #include <flying_horror/roll_dynamics.hpp>
 #include <flying_horror/units.hpp>
+#include <flying_horror/pid_controller.hpp>
 
 #include <iostream>
+#include <algorithm>
+#include <cmath>
 
 namespace flying_horror {
-    const double torque = 0.01; // N*m, example constant torque for simulation
     const double update_freq = 100.0; // Hz, simulation update frequency
-    const double sim_duration = 2.0; // seconds, total simulation duration
+    const double sim_duration = 5.0; // seconds, total simulation duration
+    const double initial_angle = 15.0;   // Started at 15 degrees
+    const double target_angle = 0.0;     // Target is 0 degrees
+
+    const double initial_offset = initial_angle - target_angle;
+    const double settling_tolerance = degrees_to_radians(1.0);
 
     void init_sim() {
         std::cout << "Flying Horror simulation initialized.\n";
@@ -18,14 +25,76 @@ namespace flying_horror {
     void run_sim() {
         std::cout << "Running Flying Horror simulation...\n";
 
-        double current_angle = 0.0; // degrees
-        double angular_velocity = 0.0; // rads/s
+        double current_angle = degrees_to_radians(initial_angle);   // Started at 15 degrees
+        double angular_velocity = 0.0;                     // rads/s
+        double torque = 0.0; // N*m
 
+        double maximum_overshoot = 0.0;
+        double settling_time_candidate = -1.0;
+        bool crossed_target = false;
+
+        double kp = 0.2; // Proportional gain
+        double ki = 0.01; // Integral gain 
+        double kd = 0.035; // Derivative gain
+
+        PIDController pid_controller(kp, ki, kd);
+
+        double delta_time = 1.0 / update_freq;
         int steps = sim_duration * update_freq;
         for (int i = 0; i < steps; i++) {
-            double delta_time = 1.0 / update_freq;
+            torque = pid_controller.update(degrees_to_radians(target_angle), current_angle, delta_time);
             current_angle = RollDynamics::calculate_new_angle(current_angle, angular_velocity, delta_time, torque);
-            std::cout << "Angle: " << radians_to_degrees(current_angle) << " degrees, Angular Velocity: " << angular_velocity << " rads/s\n";
+            if (i % 10 == 0) { // Print every 10 steps
+                std::cout << "Time: " << (i * delta_time) << " s, ";
+                std::cout << "Angle: " << radians_to_degrees(current_angle) << " degrees, ";
+                std::cout << "Angular Velocity: " << angular_velocity << " rads/s, ";
+                std::cout << "Torque: " << torque << " N*m\n";
+                std::cout << "----------------------------------------------------------------------------------------------------------\n";
+            }
+
+            const double elapsed_time = (i + 1) * delta_time;
+            const double offset_from_target = current_angle - target_angle;
+
+            if (!crossed_target) {
+                const bool crossedFromAbove = initial_offset > 0.0 && offset_from_target <= 0.0;
+                const bool crossedFromBelow = initial_offset < 0.0 && offset_from_target >= 0.0;
+                crossed_target = crossedFromAbove || crossedFromBelow;
+            }
+
+            const bool isBeyondTarget = crossed_target && offset_from_target * initial_offset < 0.0;
+
+            if (isBeyondTarget) {
+                maximum_overshoot = std::max(
+                    maximum_overshoot,
+                    std::abs(offset_from_target)
+                );
+            }
+
+            // Begin recording a possible settling time when entering
+            // the tolerance band. Reset it if the response later leaves.
+            if (std::abs(offset_from_target) <= settling_tolerance) {
+                if (settling_time_candidate < 0.0) {
+                    settling_time_candidate = elapsed_time;
+                }
+            } else {
+                settling_time_candidate = -1.0;
+            }
+        }
+
+        std::cout << "Simulation completed.\n";
+        std::cout << "Initial Angle: " << (initial_angle) << " degrees\n";
+        std::cout << "Final Angle: " << radians_to_degrees(current_angle) << " degrees\n";
+        std::cout << "Maximum Overshoot: " << radians_to_degrees(maximum_overshoot) << " degrees\n";
+        std::cout << "Final Angular Velocity: " << angular_velocity << " rads/s\"\n";
+        if (settling_time_candidate >= 0.0) {
+            std::cout
+                << "Settling time (+/- 1 degree): "
+                << settling_time_candidate
+                << " seconds\n";
+        } else {
+            std::cout
+                << "Settling time: "
+                << "Did not settle during simulation\n";
         }
     }
 }
