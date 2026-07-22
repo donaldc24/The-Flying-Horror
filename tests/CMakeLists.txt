@@ -13,6 +13,7 @@ add_executable(flying_horror_tests
     motor_output_tests.cpp
     domain_types_tests.cpp
     pid_controller_tests.cpp
+    roll_dynamics_tests.cpp
 )
 
 target_link_libraries(flying_horror_tests
