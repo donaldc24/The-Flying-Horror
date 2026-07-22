@@ -293,7 +293,8 @@ Track unresolved decisions here.
 
 ## 13. Revision History
 
-| Version | Date       | Author         | Description                  |
-| ------- | ---------- | -------------- | ---------------------------- |
-| 0.0     | 2025-09-25 | Donald Calhoun | Original Physical Quadcopter |
-| 0.1     | 2026-07-20 | Donald Calhoun | Initial requirements         |
+| Version | Date       | Author         | Description                      |
+| ------- | ---------- | -------------- | ----------------------------     |
+| 0.0     | 2025-09-25 | Donald Calhoun | Original Physical Quadcopter     |
+| 0.1     | 2026-07-20 | Donald Calhoun | Initial requirements             |
+| 0.1     | 2026-07-22 | Donald Calhoun | Single-Axis Stabilization        |
