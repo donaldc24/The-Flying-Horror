@@ -17,6 +17,10 @@ namespace flying_horror {
     const double initial_offset = initial_angle - target_angle;
     const double settling_tolerance = degrees_to_radians(1.0);
 
+    const double kp = 0.2; // Proportional gain
+    const double ki = 0.01; // Integral gain
+    const double kd = 0.035; // Derivative gain
+
     void init_sim() {
         std::cout << "Flying Horror simulation initialized.\n";
         run_sim();
@@ -32,10 +36,6 @@ namespace flying_horror {
         double maximum_overshoot = 0.0;
         double settling_time_candidate = -1.0;
         bool crossed_target = false;
-
-        double kp = 0.2; // Proportional gain
-        double ki = 0.01; // Integral gain 
-        double kd = 0.035; // Derivative gain
 
         PIDController pid_controller(kp, ki, kd);
 
@@ -81,7 +81,8 @@ namespace flying_horror {
             }
         }
 
-        std::cout << "Simulation completed.\n";
+        std::cout << "\nSimulation completed:\n";
+        std::cout << "------------------------------------------------\n";
         std::cout << "Initial Angle: " << (initial_angle) << " degrees\n";
         std::cout << "Final Angle: " << radians_to_degrees(current_angle) << " degrees\n";
         std::cout << "Maximum Overshoot: " << radians_to_degrees(maximum_overshoot) << " degrees\n";
